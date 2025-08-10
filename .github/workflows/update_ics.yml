@@ -23,12 +23,13 @@ jobs:
       - name: Build ICS
         run: HEADLESS=true python notion_calendar_full.py
 
+      - name: Write service account key to file
+        run: |
+          echo '${{ secrets.GOOGLE_SERVICE_ACCOUNT }}' > sa.json
+
       - name: Upload ICS to Google Drive (same file ID)
-        env:
-          GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
         run: |
           python - <<'PY'
-          import json
           from google.oauth2 import service_account
           from googleapiclient.discovery import build
           from googleapiclient.http import MediaFileUpload
@@ -36,8 +37,8 @@ jobs:
           FILE_ID = "18aBgZxvzgxWifeSju4z0_Q7IeTvs01rC"
           FILE_PATH = "notion_calendar.ics"
 
-          creds = service_account.Credentials.from_service_account_info(
-              json.loads('${{ env.GOOGLE_SERVICE_ACCOUNT }}'),
+          creds = service_account.Credentials.from_service_account_file(
+              "sa.json",
               scopes=['https://www.googleapis.com/auth/drive']
           )
           service = build('drive', 'v3', credentials=creds)
