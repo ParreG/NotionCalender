@@ -1,4 +1,4 @@
-
+import os
 import asyncio, re
 from datetime import datetime, timedelta
 import pytz, dateparser
@@ -85,6 +85,7 @@ async def switch_to_allt(page):
     except:
         pass
     return False
+
 async def find_scroller(page):
     for sel in [
         ".notion-collection-view-body .notion-scroller.vertical.horizontal",
@@ -117,6 +118,7 @@ async def collect_all_rows(page):
           return rows;
         }
         """)
+
     try:
         await scroller.evaluate("(el)=>el.scrollTo(0, 0)")
         await page.wait_for_timeout(700)
@@ -159,7 +161,11 @@ async def main():
     past_end = 0
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=False, slow_mo=120)
+        headless = os.getenv("HEADLESS", "true").lower() == "true"
+        browser = await p.chromium.launch(
+            headless=headless,
+            args=["--no-sandbox", "--disable-setuid-sandbox"]
+        )
         page = await browser.new_page(viewport={"width": 1400, "height": 950})
 
         print("Öppnar sidan …")
