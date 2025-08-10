@@ -1,0 +1,47 @@
+name: Update ICS weekly
+on:
+  schedule:
+    - cron: "0 5 * * 1"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps (Python + Playwright)
+        run: |
+          pip install playwright ics dateparser pytz google-api-python-client google-auth google-auth-httplib2 google-auth-oauthlib
+          python -m playwright install --with-deps chromium
+
+      - name: Build ICS
+        run: HEADLESS=true python notion_calendar_full.py
+
+      - name: Upload ICS to Google Drive (same file ID)
+        env:
+          GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
+        run: |
+          python - <<'PY'
+          import json
+          from google.oauth2 import service_account
+          from googleapiclient.discovery import build
+          from googleapiclient.http import MediaFileUpload
+
+          FILE_ID = "18aBgZxvzgxWifeSju4z0_Q7IeTvs01rC"
+          FILE_PATH = "notion_calendar.ics"
+
+          creds = service_account.Credentials.from_service_account_info(
+              json.loads('${{ env.GOOGLE_SERVICE_ACCOUNT }}'),
+              scopes=['https://www.googleapis.com/auth/drive']
+          )
+          service = build('drive', 'v3', credentials=creds)
+          media = MediaFileUpload(FILE_PATH, mimetype='text/calendar', resumable=False)
+          service.files().update(fileId=FILE_ID, media_body=media).execute()
+          print("Drive file updated:", FILE_ID)
+          PY
