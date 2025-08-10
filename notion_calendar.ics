@@ -1,0 +1,2041 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:- Repetition JSON & Fetch\n- Map() och Filter() (med fetch mot github)\n- Repetition JSON & Fetch\n- Map() och Filter() (med fetch mot github)\n- Repetition JSON & Fetch\n- Map() och Filter() (med fetch mot github)\n\nLärare: Aldor Besher\nDatum: February 5\, 2025\nTider: 09-12
+DTEND:20250205T110000Z
+DTSTART:20250205T080000Z
+SUMMARY:Lektion
+UID:0b78543a-23b7-489e-9299-f87f9e7de529@0b78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n– Villkorssatser\n  – if & if else\n  – logiska operators\n  – ternary operator\n  – switch\nAgenda\n– Villkorssatser\n  – if & if else\n  – logiska operators\n  – ternary operator\n  – switch\nAgenda\n– Villkorssatser\n  – if & if else\n  – logiska operators\n  – ternary operator\n  – switch\n\nLärare: Reidar Nilsen\nDatum: September 11\, 2024\nTider: 9-12
+DTEND:20240911T100000Z
+DTSTART:20240911T070000Z
+SUMMARY:Onlinelektion
+UID:cead6f83-7600-4455-ac55-413a48d76a9e@cead.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- ILogger med Azure\n- .NET baserade CMS-system & E-handelssystem\n- ILogger med Azure\n- .NET baserade CMS-system & E-handelssystem\n- ILogger med Azure\n- .NET baserade CMS-system & E-handelssystem\n\nLärare: Aldor Besher\nDatum: September 9\, 2025\nTider: 13-16
+DTEND:20250909T140000Z
+DTSTART:20250909T110000Z
+SUMMARY:Lektion på distans
+UID:30a2d5fa-6d3a-4217-ae6d-f8aba425a6bb@30a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n- Abstract class\n– Generics Class In C#\n– Generics Collection\nAgenda\n- Abstract class\n– Generics Class In C#\n– Generics Collection\nAgenda\n- Abstract class\n– Generics Class In C#\n– Generics Collection\n\nLärare: Reidar Nilsen\nDatum: October 3\, 2024\nTider: 13-16
+DTEND:20241003T140000Z
+DTSTART:20241003T110000Z
+SUMMARY:Onlinelektion
+UID:d069fa41-038c-4463-b517-17c60e8c4743@d069.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lab 4 – Felsökning\nLab 4 – Felsökning\nLab 4 – Felsökning\n\nLärare: Reidar Nilsen\nDatum: October 13\, 2024\nTider: 23:59
+DTEND:20241013T225900Z
+DTSTART:20241013T215900Z
+SUMMARY:Deadline Lab4
+UID:2982eaa1-db49-4e53-8e76-f281bb8815cc@2982.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: January 17\, 2025
+DTEND:20250117T090000Z
+DTSTART:20250117T080000Z
+SUMMARY:Stöd
+UID:e07ee5c4-e551-4c23-bcd0-7d9c7c7139a1@e07e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Repetition om Avancerad Layout\n- CSS Grid\n- Att jobba med Github från VS Code\n- Github Pages\n- Övning\n- Repetition om Avancerad Layout\n- CSS Grid\n- Att jobba med Github från VS Code\n- Github Pages\n- Övning\n- Repetition om Avancerad Layout\n- CSS Grid\n- Att jobba med Github från VS Code\n- Github Pages\n- Övning\n\nLärare: Aldor Besher\nDatum: January 20\, 2025\nTider: 13-16
+DTEND:20250120T150000Z
+DTSTART:20250120T120000Z
+SUMMARY:Lektion
+UID:bb8d914f-8fc9-4ac1-84f7-e8279984b9cd@bb8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Code Review\n09:00 Risk Experts\n09:30 Loan Analysts	\n10:00 Wealth Specialists	\n10:30 Credit Solutions\n- Code Review\n09:00 Risk Experts\n09:30 Loan Analysts	\n10:00 Wealth Specialists	\n10:30 Credit Solutions\n- Code Review\n09:00 Risk Experts\n09:30 Loan Analysts	\n10:00 Wealth Specialists	\n10:30 Credit Solutions\n\nLärare: Reidar Nilsen\nDatum: November 6\, 2024\nTider: 9-12
+DTEND:20241106T110000Z
+DTSTART:20241106T080000Z
+SUMMARY:Stödtid
+UID:dc569597-2165-4095-9d0d-d25b5fa442f2@dc56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: January 20\, 2025
+DTEND:20250120T090000Z
+DTSTART:20250120T080000Z
+SUMMARY:Lektion
+UID:798b768a-872e-4d46-87be-69e18520f70c@798b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n- Labbar efter önskemål (extrainsatt)\n- Stödtid\nAgenda\n- Labbar efter önskemål (extrainsatt)\n- Stödtid\nAgenda\n- Labbar efter önskemål (extrainsatt)\n- Stödtid\n\nLärare: Reidar Nilsen\nDatum: October 23\, 2024\nTider: 09:00-12:00
+DTEND:20241023T100000Z
+DTSTART:20241023T070000Z
+SUMMARY:Onlinelektion
+UID:608a8111-c138-4021-9bbf-ab753375776b@608a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n– var och dynamic\n– Random number\n– Metoder i C#\nAgenda\n– var och dynamic\n– Random number\n– Metoder i C#\nAgenda\n– var och dynamic\n– Random number\n– Metoder i C#\n\nLärare: Reidar Nilsen\nDatum: September 16\, 2024\nTider: 13-16
+DTEND:20240916T140000Z
+DTSTART:20240916T110000Z
+SUMMARY:Onlinelektion
+UID:7bfbea31-33bd-43fb-a89d-d12401e6d074@7bfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbara tider\nBokningsbara tider\n\nLärare: Reidar Nilsen\nDatum: January 24\, 2025\nTider: 13-15
+DTEND:20250124T140000Z
+DTSTART:20250124T120000Z
+SUMMARY:Stöd
+UID:9792e34b-949f-4142-ad21-14953a3d93fa@9792.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stöd\n- Stöd\n- Stöd\n\nLärare: Reidar Nilsen\nDatum: November 27\, 2024\nTider: 09:00-12:00
+DTEND:20241127T110000Z
+DTSTART:20241127T080000Z
+SUMMARY:Stödtid
+UID:b3daa199-fd84-45c9-a8b9-b7059600ab4d@b3da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Synkron & Asynkron programmering\n- UML och databas arkitektur\n- Synkron & Asynkron programmering\n- UML och databas arkitektur\n- Synkron & Asynkron programmering\n- UML och databas arkitektur\n\nLärare: Aldor Besher\nDatum: February 24\, 2025\nTider: 13-16
+DTEND:20250224T150000Z
+DTSTART:20250224T120000Z
+SUMMARY:Lektion
+UID:606b470e-333e-41ce-9232-fcd31c2cb3b1@606b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Introduktion till React\n- Vanilla JS vs Ramverk\n- Virtual DOM i React\n- Kort om Node.js\, NPM & NPX\n- Installera Node.js\n- Skapa en react app\n- JSX\n- React Komponenter\nIntroduktion till React\n- Vanilla JS vs Ramverk\n- Virtual DOM i React\n- Kort om Node.js\, NPM & NPX\n- Installera Node.js\n- Skapa en react app\n- JSX\n- React Komponenter\nIntroduktion till React\n- Vanilla JS vs Ramverk\n- Virtual DOM i React\n- Kort om Node.js\, NPM & NPX\n- Installera Node.js\n- Skapa en react app\n- JSX\n- React Komponenter\n\nLärare: Aldor Besher\nDatum: February 10\, 2025\nTider: 13-16
+DTEND:20250210T150000Z
+DTSTART:20250210T120000Z
+SUMMARY:Lektion
+UID:0ca2e5df-cfc4-4bdc-892d-c9aa3bc356f7@0ca2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid (UX)\nBokningsbar tid (UX)\n\nLärare: Jumi Strandberg\nDatum: March 26\, 2025\nTider: 09-12
+DTEND:20250326T110000Z
+DTSTART:20250326T080000Z
+SUMMARY:Stödtid
+UID:9706f4f7-27c3-41bf-882b-dc506e613b0e@9706.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: April 7\, 2025\nTider: 13-16
+DTEND:20250407T140000Z
+DTSTART:20250407T110000Z
+SUMMARY:Stödtid
+UID:b543f7eb-0ecb-47af-9502-02f196f42308@b543.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:09-10 Johan\n10-16 Aldor\n09-10 Johan\n10-16 Aldor\n\nLärare: Johan Klasson\nDatum: February 4\, 2025\nTider: 09-16
+DTEND:20250204T150000Z
+DTSTART:20250204T080000Z
+SUMMARY:Lektion på plats
+UID:36560e4e-d692-43c0-aa7f-7248aa7e657d@3656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:– Retro\n– Gruppövning: The Console Lottery\n– Retro\n– Gruppövning: The Console Lottery\n– Retro\n– Gruppövning: The Console Lottery\n\nLärare: Tobias Landén\nDatum: September 17\, 2024\nTider: 9-16
+DTEND:20240917T140000Z
+DTSTART:20240917T070000Z
+SUMMARY:Lektion på plats
+UID:bba8c986-a9e5-421e-9ddb-1fe9a39addf6@bba8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lärare: Reidar Nilsen\nDatum: October 15\, 2024\nTider: 9-16
+DTEND:20241015T140000Z
+DTSTART:20241015T070000Z
+SUMMARY:Lektion på plats
+UID:28a7b987-fbb7-4096-83c3-77e24ee67dd1@28a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid\n- Stödtid\n- Stödtid\n\nLärare: Reidar Nilsen\nDatum: December 6\, 2024\nTider: 13:00-15:00
+DTEND:20241206T140000Z
+DTSTART:20241206T120000Z
+SUMMARY:Stödtid
+UID:e3ba794e-3bde-41a4-8397-01dccdceab01@e3ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n\nLärare: Aldor Besher\nDatum: October 1\, 2025\nTider: 13-16
+DTEND:20251001T140000Z
+DTSTART:20251001T110000Z
+SUMMARY:på distans
+UID:809330b4-f842-455a-affe-b1386952dc8e@8093.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: February 25\, 2025
+DTEND:20250225T090000Z
+DTSTART:20250225T080000Z
+SUMMARY:Händelse 2025-02-25
+UID:84e81feb-2f3b-4d92-b329-26c5f20dc961@84e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: April 3\, 2025\nTider: 13-16
+DTEND:20250403T140000Z
+DTSTART:20250403T110000Z
+SUMMARY:Stödtid
+UID:faf44519-badd-4744-9f5f-a3b1bce920ee@faf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Stödtid för CC och/eller för övrigt i kursen\nStödtid för CC och/eller för övrigt i kursen\nStödtid för CC och/eller för övrigt i kursen\n\nLärare: Johan Klasson\nDatum: June 2\, 2025\nTider: 13.30-16.00
+DTEND:20250602T140000Z
+DTSTART:20250602T113000Z
+SUMMARY:Stödtid
+UID:b8ebbf64-286b-4b67-956f-d9ed5183532f@b8eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Repetition\n- CSS Animationer\n- Modal Popup\n- Light & Dark mode\n- Repetition\n- CSS Animationer\n- Modal Popup\n- Light & Dark mode\n- Repetition\n- CSS Animationer\n- Modal Popup\n- Light & Dark mode\n\nLärare: Aldor Besher\nDatum: January 22\, 2025\nTider: 09-12
+DTEND:20250122T110000Z
+DTSTART:20250122T080000Z
+SUMMARY:Lektion
+UID:664253e9-e6f7-4885-b14f-4add3c54bc12@6642.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lärare: Reidar Nilsen\nDatum: October 11\, 2024\nTider: 13-15
+DTEND:20241011T130000Z
+DTSTART:20241011T110000Z
+SUMMARY:Stödtid
+UID:e397a49b-2b25-44bc-a897-b5d66f7494d7@e397.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbara tider\nBokningsbara tider\nBokningsbara tider\n\nLärare: Reidar Nilsen\nDatum: February 28\, 2025\nTider: 13-15
+DTEND:20250228T140000Z
+DTSTART:20250228T120000Z
+SUMMARY:Stöd
+UID:a3a935a0-d9e5-476d-8a7f-971fb80515ec@a3a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n- AI Lektion ML.NET verktyget\nEquals metod.\n- Laborera med Structs\, Snippets\, Attributes och Delegates\n– Stödtid labbar\nAgenda\n- AI Lektion ML.NET verktyget\nEquals metod.\n- Laborera med Structs\, Snippets\, Attributes och Delegates\n– Stödtid labbar\nAgenda\n- AI Lektion ML.NET verktyget\nEquals metod.\n- Laborera med Structs\, Snippets\, Attributes och Delegates\n– Stödtid labbar\n\nLärare: Reidar Nilsen\nDatum: October 24\, 2024\nTider: 13:00-16:00
+DTEND:20241024T140000Z
+DTSTART:20241024T110000Z
+SUMMARY:Onlinelektion
+UID:5600c9c0-b094-4afb-b834-f5f4be4a387e@5600.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Autentisering & Auktorisering\n- Oauth 2.0\n- Json Web Token (JWT)\n- Hash & Salt\n- Övning\n- Autentisering & Auktorisering\n- Oauth 2.0\n- Json Web Token (JWT)\n- Hash & Salt\n- Övning\n- Autentisering & Auktorisering\n- Oauth 2.0\n- Json Web Token (JWT)\n- Hash & Salt\n- Övning\n\nLärare: Aldor Besher\nDatum: August 28\, 2025\nTider: 09-12
+DTEND:20250828T100000Z
+DTSTART:20250828T070000Z
+SUMMARY:Lektion på distans
+UID:972e3150-55c9-477f-8cef-1ffe58f308ac@972e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: April 22\, 2025\nTider: 09-12
+DTEND:20250422T100000Z
+DTSTART:20250422T070000Z
+SUMMARY:Stödtid
+UID:438b03b0-9989-47fe-a169-ea4d82798274@438b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Workshop\nWorkshop\nWorkshop\n\nLärare: Tobias Landén\nDatum: October 22\, 2024\nTider: 9-16
+DTEND:20241022T140000Z
+DTSTART:20241022T070000Z
+SUMMARY:Lektion på plats
+UID:e94bc6ec-d6d3-4503-bb7d-d7155bbaf8a9@e94b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: January 29\, 2025
+DTEND:20250129T090000Z
+DTSTART:20250129T080000Z
+SUMMARY:Lektion
+UID:278f07f6-1b1d-4936-985d-c208677d1640@278f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbara tider\nBokningsbara tider\nBokningsbara tider\n\nLärare: Reidar Nilsen\nDatum: January 10\, 2025\nTider: 13:00-15:00
+DTEND:20250110T140000Z
+DTSTART:20250110T120000Z
+SUMMARY:Stöd
+UID:2deeddfa-9c79-4470-949f-70b52e209d3f@2dee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: April 9\, 2025\nTider: 09-12
+DTEND:20250409T100000Z
+DTSTART:20250409T070000Z
+SUMMARY:Stödtid
+UID:01eed3ee-fa06-4929-b3fc-060df84f3e0c@01ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Project i grupp\nProject i grupp\nProject i grupp\n\nLärare: Reidar Nilsen\nDatum: November 17\, 2024\nTider: 23:59
+DTEND:20241117T235900Z
+DTSTART:20241117T225900Z
+SUMMARY:Deadline Project i grupp
+UID:7e3ed453-4b1e-4e0d-a2bc-b2fc3eabb7ad@7e3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: January 28\, 2025
+DTEND:20250128T090000Z
+DTSTART:20250128T080000Z
+SUMMARY:Kommer
+UID:63b7b475-9437-4cc5-a9c2-f88c37bd3429@63b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lärare: Avancerad fullstackutveckling\nDatum: September 12\, 2025
+DTEND:20250912T080000Z
+DTSTART:20250912T070000Z
+SUMMARY:DEADLINE Labb 2
+UID:25cf3c49-6b9b-4783-adf0-850eed4f7b9a@25cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n- Mer om Generics Collection In C#\n- Stack<T>\n- Queue<T>\n- HashSet<T>\n- ICollection<T> Interface\nAgenda\n- Mer om Generics Collection In C#\n- Stack<T>\n- Queue<T>\n- HashSet<T>\n- ICollection<T> Interface\nAgenda\n- Mer om Generics Collection In C#\n- Stack<T>\n- Queue<T>\n- HashSet<T>\n- ICollection<T> Interface\n\nLärare: Reidar Nilsen\nDatum: October 9\, 2024\nTider: 09:00-12:00
+DTEND:20241009T100000Z
+DTSTART:20241009T070000Z
+SUMMARY:Onlinelektion
+UID:f08137f9-b4c5-4ac0-a169-bae98856936d@f081.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Handledningstid (bokningsbar)\nHandledningstid (bokningsbar)\n\nLärare: Aldor Besher\nDatum: October 17\, 2025\nTider: 13-15
+DTEND:20251017T130000Z
+DTSTART:20251017T110000Z
+SUMMARY:Bokningsbar tid
+UID:d435cba1-f5c7-4755-9a8e-734293c4a19e@d435.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uppstart av databaskursen.\n– SSMS-verktyg \n- Ladda ned och komma igång med SQL Server\n- Börja med SSMS. SQL frågor\n- Relational DB vs Non Relational \n- Eventuellt redovisningar av projekt från förra kursen.\nUppstart av databaskursen.\n– SSMS-verktyg \n- Ladda ned och komma igång med SQL Server\n- Börja med SSMS. SQL frågor\n- Relational DB vs Non Relational \n- Eventuellt redovisningar av projekt från förra kursen.\nUppstart av databaskursen.\n– SSMS-verktyg \n- Ladda ned och komma igång med SQL Server\n- Börja med SSMS. SQL frågor\n- Relational DB vs Non Relational \n- Eventuellt redovisningar av projekt från förra kursen.\n\nLärare: Reidar Nilsen\nDatum: November 18\, 2024\nTider: 13:00
+DTEND:20241118T130000Z
+DTSTART:20241118T120000Z
+SUMMARY:Online lektion
+UID:bb05f82a-cca9-4515-a32c-5ab3b00b8621@bb05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: January 21\, 2025
+DTEND:20250121T090000Z
+DTSTART:20250121T080000Z
+SUMMARY:Kommer
+UID:15e77357-1868-4e64-a813-cad2273a7ab5@15e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- mer MVC + Razor Syntax\n- Anropa externa APIer från MVC\n- Routing\n- CSS i ASP.NET\n- mer MVC + Razor Syntax\n- Anropa externa APIer från MVC\n- Routing\n- CSS i ASP.NET\n- mer MVC + Razor Syntax\n- Anropa externa APIer från MVC\n- Routing\n- CSS i ASP.NET\n\nLärare: Aldor Besher\nDatum: August 26\, 2025\nTider: 13-16
+DTEND:20250826T140000Z
+DTSTART:20250826T110000Z
+SUMMARY:Lektion på distans
+UID:9493a5b8-ce24-4447-b1fb-10e4f7c467db@9493.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n– Multitrådning och asynkrona processer.\nAgenda\n– Multitrådning och asynkrona processer.\nAgenda\n– Multitrådning och asynkrona processer.\n\nLärare: Reidar Nilsen\nDatum: October 17\, 2024\nTider: 13:00-16:00
+DTEND:20241017T140000Z
+DTSTART:20241017T110000Z
+SUMMARY:Onlinelektion
+UID:07b2d8cb-7eb0-42b0-84b4-7974855c9fda@07b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: March 24\, 2025\nTider: 13-16
+DTEND:20250324T150000Z
+DTSTART:20250324T120000Z
+SUMMARY:Stödtid
+UID:2169a4a1-1511-4512-99e0-2972eb48d283@2169.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lab 2 – Schackbräde\nLab 2 – Schackbräde\nLab 2 – Schackbräde\n\nLärare: Reidar Nilsen\nDatum: September 29\, 2024\nTider: 23:59
+DTEND:20240929T225900Z
+DTSTART:20240929T215900Z
+SUMMARY:Deadline Lab2
+UID:6ff74835-245f-4f5e-a958-e9c249f70254@6ff7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Riskanalys\n- Gruppdynamik & konflikthantering\n- Riskanalys\n- Gruppdynamik & konflikthantering\n- Riskanalys\n- Gruppdynamik & konflikthantering\n\nLärare: Johan Klasson\nDatum: December 12\, 2024\nTider: 13:00-16:00
+DTEND:20241212T150000Z
+DTSTART:20241212T120000Z
+SUMMARY:Lektion på plats
+UID:bc7ec239-be51-424b-8b5c-7835e54d5624@bc7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:INSTÄLLD\nINSTÄLLD\n\nLärare: Databaser\nDatum: December 19\, 2024\nTider: 13:00-16:00
+DTEND:20241219T150000Z
+DTSTART:20241219T120000Z
+SUMMARY:Ev. ej lektion
+UID:bd5cfe6b-a2ad-4280-a118-06b688549280@bd5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Like\n  - Operators SQL\n  - Between\n  - Normalisering\n  - ADO.NET\nÖvning SQL & ADO.NET\n- Like\n  - Operators SQL\n  - Between\n  - Normalisering\n  - ADO.NET\nÖvning SQL & ADO.NET\n- Like\n  - Operators SQL\n  - Between\n  - Normalisering\n  - ADO.NET\nÖvning SQL & ADO.NET\n\nLärare: Reidar Nilsen\nDatum: November 21\, 2024\nTider: 13:00
+DTEND:20241121T130000Z
+DTSTART:20241121T120000Z
+SUMMARY:Online lektion
+UID:17cba794-5a3a-4fbf-93e6-f2fd81143dd4@17cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:09-10 Johan - Information & Pulsmätning\n10-16 Aldor - Stödtid Backend\n09-10 Johan - Information & Pulsmätning\n10-16 Aldor - Stödtid Backend\n09-10 Johan - Information & Pulsmätning\n10-16 Aldor - Stödtid Backend\n\nLärare: Johan Klasson\nDatum: February 25\, 2025\nTider: 09-16
+DTEND:20250225T150000Z
+DTSTART:20250225T080000Z
+SUMMARY:Lektion på plats
+UID:c9bb6db1-a58b-4667-b220-cf8f31da1936@c9bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:– Uppstart av första två kurserna\n– Träffa lärarna\n– Om yrkesrollen och att programmera\n– Uppstart av första två kurserna\n– Träffa lärarna\n– Om yrkesrollen och att programmera\n\nLärare: Tobias Landén\nDatum: September 4\, 2024\nTider: 9-12
+DTEND:20240904T100000Z
+DTSTART:20240904T070000Z
+SUMMARY:Lektion på plats
+UID:16bba74d-3ec4-4b02-81e1-6319fa1ffdd6@16bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-Agenda\n– Olika datatyper och variabler \, hur kan man deklarera variabler och med vad använder vi dom mest till.\n– Läsa & skriva till Console\n– Kort introduktion till villkorssatser.\n-Git Hub\n-Agenda\n– Olika datatyper och variabler \, hur kan man deklarera variabler och med vad använder vi dom mest till.\n– Läsa & skriva till Console\n– Kort introduktion till villkorssatser.\n-Git Hub\n-Agenda\n– Olika datatyper och variabler \, hur kan man deklarera variabler och med vad använder vi dom mest till.\n– Läsa & skriva till Console\n– Kort introduktion till villkorssatser.\n-Git Hub\n\nLärare: Reidar Nilsen\nDatum: September 9\, 2024\nTider: 13-16
+DTEND:20240909T140000Z
+DTSTART:20240909T110000Z
+SUMMARY:Onlinelektion
+UID:56b1bb07-7df1-4413-b317-288fdb7c7053@56b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Förmiddag (på plats)\n– Dags för ny termin\n– Retro\n– Gruppövning\n\nEftermiddag (Online)\n- Introduktion till kursen\n- Introduktion till VS Code\n- Introduktion till HTML\n   - Grundläggande taggar och struktur\nFörmiddag (på plats)\n– Dags för ny termin\n– Retro\n– Gruppövning\n\nEftermiddag (Online)\n- Introduktion till kursen\n- Introduktion till VS Code\n- Introduktion till HTML\n   - Grundläggande taggar och struktur\nFörmiddag (på plats)\n– Dags för ny termin\n– Retro\n– Gruppövning\n\nEftermiddag (Online)\n- Introduktion till kursen\n- Introduktion till VS Code\n- Introduktion till HTML\n   - Grundläggande taggar och struktur\n\nLärare: Johan Klasson\nDatum: January 7\, 2025\nTider: 09-16
+DTEND:20250107T150000Z
+DTSTART:20250107T080000Z
+SUMMARY:Lektion
+UID:b5f952f9-d446-4305-908a-858ceaeea2c0@b5f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n\nLärare: Aldor Besher\nDatum: November 5\, 2025\nTider: 13-16
+DTEND:20251105T150000Z
+DTSTART:20251105T120000Z
+SUMMARY:på distans
+UID:b9ac6f41-5720-4623-ba78-928f8c760783@b9ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Stödtid för CC och/eller för övrigt i kursen\nStödtid för CC och/eller för övrigt i kursen\n\nLärare: Johan Klasson\nDatum: May 26\, 2025\nTider: 09-16
+DTEND:20250526T140000Z
+DTSTART:20250526T070000Z
+SUMMARY:Stödtid
+UID:b9382dd3-c3f5-4e97-9ed9-4e6dd0223f98@b938.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: March 31\, 2025\nTider: 13-16
+DTEND:20250331T140000Z
+DTSTART:20250331T110000Z
+SUMMARY:Stödtid
+UID:a0a82230-ac5d-463f-92c0-a4a187206448@a0a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n– Inheritance / Polymorphism\n– Types of Classes C#\n– Partial class \n– Sealed class\nAgenda\n– Inheritance / Polymorphism\n– Types of Classes C#\n– Partial class \n– Sealed class\nAgenda\n– Inheritance / Polymorphism\n– Types of Classes C#\n– Partial class \n– Sealed class\n\nLärare: Reidar Nilsen\nDatum: September 30\, 2024\nTider: 13-16
+DTEND:20240930T140000Z
+DTSTART:20240930T110000Z
+SUMMARY:Onlinelektion
+UID:584d9f8f-133a-4c4f-b94e-f8170516f6e9@584d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n- Stödtid projekt och tidigare labbar\nAgenda\n- Stödtid projekt och tidigare labbar\nAgenda\n- Stödtid projekt och tidigare labbar\n\nLärare: Reidar Nilsen\nDatum: October 30\, 2024\nTider: 9-12
+DTEND:20241030T110000Z
+DTSTART:20241030T080000Z
+SUMMARY:Stödtid
+UID:44c57c6c-80e7-4392-bbc7-60601442f7e7@44c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- ViewModels vs DTOs\n- Statemanagement\n- Cookies & Sessions\n- ViewModels vs DTOs\n- Statemanagement\n- Cookies & Sessions\n- ViewModels vs DTOs\n- Statemanagement\n- Cookies & Sessions\n\nLärare: Aldor Besher\nDatum: August 27\, 2025\nTider: 13-16
+DTEND:20250827T140000Z
+DTSTART:20250827T110000Z
+SUMMARY:Lektion på distans
+UID:c8d19f86-69a6-4ea4-8b2b-85fb3679c066@c8d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Grupp 1\, 2 och 3\, Studiebesök hos ledningsgruppsföretaget 3D Interactive\n- Grupp 1\, 2 och 3\, Studiebesök hos ledningsgruppsföretaget 3D Interactive\n\nLärare: IT Tech & Operations\nDatum: September 5\, 2024\nTider: 9-10
+DTEND:20240905T080000Z
+DTSTART:20240905T070000Z
+SUMMARY:Studiebesök (På plats)
+UID:a6b03f94-a849-4ac1-b389-6d31fb0c836c@a6b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TEMA: Mjukvarutester\n- ISTQBs principer för testning\n- Mjukvarutester - TDD & BDD\n- Benchmarking\nTEMA: Mjukvarutester\n- ISTQBs principer för testning\n- Mjukvarutester - TDD & BDD\n- Benchmarking\n\nLärare: Aldor Besher\nDatum: September 15\, 2025\nTider: 09-12
+DTEND:20250915T100000Z
+DTSTART:20250915T070000Z
+SUMMARY:Lektion på distans
+UID:e0b8122a-fb2c-4a14-bac7-91c961119773@e0b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Hållbarhet & Etik inom AI-användning\n- AI\, ML och Neurala Nätverk\n- Hållbarhet & Etik inom AI-användning\n- AI\, ML och Neurala Nätverk\n- Hållbarhet & Etik inom AI-användning\n- AI\, ML och Neurala Nätverk\n\nLärare: Rasmus Petersson\nDatum: September 24\, 2025\nTider: 09-12
+DTEND:20250924T100000Z
+DTSTART:20250924T070000Z
+SUMMARY:Lektion på distans
+UID:57b13b62-178a-44aa-bae7-7793e5c35ebc@57b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stöd\n- Stöd\n- Stöd\n\nLärare: Reidar Nilsen\nDatum: November 28\, 2024\nTider: 13:00-16:00
+DTEND:20241128T150000Z
+DTSTART:20241128T120000Z
+SUMMARY:Stödtid
+UID:3691bb63-0fd3-4e90-ab13-3acaa453f583@3691.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid projekt och tidigare labbar\n- Stödtid projekt och tidigare labbar\n- Stödtid projekt och tidigare labbar\n\nLärare: Reidar Nilsen\nDatum: November 15\, 2024\nTider: 13-15
+DTEND:20241115T140000Z
+DTSTART:20241115T120000Z
+SUMMARY:Stödtid
+UID:2c707d56-80ee-4a1b-a1d9-5e0aa307fd30@2c70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teorihandbok\nTeorihandbok\nTeorihandbok\n\nLärare: Reidar Nilsen\nDatum: November 17\, 2024\nTider: 23:59
+DTEND:20241117T235900Z
+DTSTART:20241117T225900Z
+SUMMARY:Deadline Teorihandboken
+UID:a3c8ef92-e2ed-48e2-b0ca-c67b2c2f2ca4@a3c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid (Individuell)\nBokningsbar tid (Individuell)\n\nLärare: Aldor Besher\nDatum: May 16\, 2025\nTider: 13-15
+DTEND:20250516T130000Z
+DTSTART:20250516T110000Z
+SUMMARY:Stödtid
+UID:d7a18ac3-d2c2-4c1b-af1a-102cc1acb2e6@d7a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n- Generics collections#\n- List<T>\n- Dictionary<T\, T>\n- Övningar\nAgenda\n- Generics collections#\n- List<T>\n- Dictionary<T\, T>\n- Övningar\nAgenda\n- Generics collections#\n- List<T>\n- Dictionary<T\, T>\n- Övningar\n\nLärare: Reidar Nilsen\nDatum: October 7\, 2024\nTider: 13-16
+DTEND:20241007T140000Z
+DTSTART:20241007T110000Z
+SUMMARY:Onlinelektion
+UID:5d8c7b3a-7c91-4714-a385-2b5f546f4128@5d8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: May 12\, 2025\nTider: 13-16
+DTEND:20250512T140000Z
+DTSTART:20250512T110000Z
+SUMMARY:Stödtid
+UID:e3c79739-7b32-4e1a-a254-41191537c094@e3c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: May 28\, 2025\nTider: 13-16
+DTEND:20250528T140000Z
+DTSTART:20250528T110000Z
+SUMMARY:Stödtid
+UID:6112349c-52ac-4cc2-ac40-323f147dc731@6112.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lärare: Reidar Nilsen\nDatum: November 1\, 2024\nTider: 13-15
+DTEND:20241101T140000Z
+DTSTART:20241101T120000Z
+SUMMARY:Stödtid
+UID:4b3956f0-95e1-436e-acea-c346918b3712@4b39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Assemblies\n- Stödtid\n- Assemblies\n- Stödtid\n- Assemblies\n- Stödtid\n\nLärare: Aldor Besher\nDatum: September 29\, 2025\nTider: 09-12
+DTEND:20250929T100000Z
+DTSTART:20250929T070000Z
+SUMMARY:Lektion på distans
+UID:5b55c933-9b42-4b95-9c13-fb1f3d1c65c9@5b55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- CSS-ramverk\n- Prestanda på en webbplats (flyttad t.v6)\n- CSS-ramverk\n- Prestanda på en webbplats (flyttad t.v6)\n\nLärare: Aldor Besher\nDatum: January 23\, 2025\nTider: 13-16
+DTEND:20250123T150000Z
+DTSTART:20250123T120000Z
+SUMMARY:Lektion
+UID:17992200-5771-4c0d-b2f8-42e640582fb3@1799.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stöd\n- Stöd\n- Stöd\n\nLärare: Reidar Nilsen\nDatum: November 29\, 2024\nTider: 13:00
+DTEND:20241129T130000Z
+DTSTART:20241129T120000Z
+SUMMARY:Stödtid
+UID:0fa188bf-6e7e-465e-b610-88241c7974ce@0fa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:09-10 Johan - Information och diskussion efter CC-Kickoff & Pulsmätning\n10:00 - Tobias\n– Introduktion till UX & Tillgänglighet\n– Introduktion till inlämningsuppgiften\n– Gruppövning kring UX\n09-10 Johan - Information och diskussion efter CC-Kickoff & Pulsmätning\n10:00 - Tobias\n– Introduktion till UX & Tillgänglighet\n– Introduktion till inlämningsuppgiften\n– Gruppövning kring UX\n09-10 Johan - Information och diskussion efter CC-Kickoff & Pulsmätning\n10:00 - Tobias\n– Introduktion till UX & Tillgänglighet\n– Introduktion till inlämningsuppgiften\n– Gruppövning kring UX\n\nLärare: Johan Klasson\nDatum: March 11\, 2025\nTider: 09-16
+DTEND:20250311T150000Z
+DTSTART:20250311T080000Z
+SUMMARY:Lektion på plats
+UID:221779ed-79d2-4135-a571-244e8c8e58c0@2217.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Handledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\n\nLärare: Aldor Besher\nDatum: September 4\, 2025\nTider: 10-12
+DTEND:20250904T100000Z
+DTSTART:20250904T080000Z
+SUMMARY:Bokningsbar tid
+UID:301cf740-c8e9-4831-b2c8-035d9b231dc5@301c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Deadline för \nIndividuellt databasprojekt samt \nTeorihandbok – Databaser\nDeadline för \nIndividuellt databasprojekt samt \nTeorihandbok – Databaser\nDeadline för \nIndividuellt databasprojekt samt \nTeorihandbok – Databaser\n\nLärare: Databaser\nDatum: January 5\, 2025\nTider: 23:59
+DTEND:20250105T235900Z
+DTSTART:20250105T225900Z
+SUMMARY:Deadline
+UID:a07b7197-93d7-4bee-9f8c-fa6ae8147fb5@a07b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Handledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\n\nLärare: Aldor Besher\nDatum: August 29\, 2025\nTider: 13-15
+DTEND:20250829T130000Z
+DTSTART:20250829T110000Z
+SUMMARY:Bokningsbar tid
+UID:7ecb6d38-9e82-40b4-81b4-557fd3e26672@7ecb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LEDIGT\nLEDIGT\n\nLärare: Databaser\nDatum: December 31\, 2024
+DTEND:20241231T090000Z
+DTSTART:20241231T080000Z
+SUMMARY:LEDIGT
+UID:8d1c075b-a9f7-4a1b-82eb-d70a9bd02f4b@8d1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n\nLärare: Aldor Besher\nDatum: November 17\, 2025\nTider: 09-12
+DTEND:20251117T110000Z
+DTSTART:20251117T080000Z
+SUMMARY:på distans
+UID:9ca4327b-ad97-4010-acf6-c13a41a55f56@9ca4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid (Individuell)\nBokningsbar tid (Individuell)\n\nLärare: Aldor Besher\nDatum: May 2\, 2025\nTider: 13-15
+DTEND:20250502T130000Z
+DTSTART:20250502T110000Z
+SUMMARY:Stödtid
+UID:9c98cb3f-de8e-40bf-9392-272e934b6cfa@9c98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stöd med UX-labben\n- Stöd med UX-labben\n\nLärare: Jumi Strandberg\nDatum: March 19\, 2025\nTider: 09-12
+DTEND:20250319T110000Z
+DTSTART:20250319T080000Z
+SUMMARY:Lektion
+UID:92ef363a-0e52-4ccc-a758-3b3438a54cd1@92ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: May 5\, 2025\nTider: 13-16
+DTEND:20250505T140000Z
+DTSTART:20250505T110000Z
+SUMMARY:Stödtid
+UID:6ef0142d-72ea-4fa4-ac30-c8f73bce8cf2@6ef0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid (Individuell)\nBokningsbar tid (Individuell)\n\nLärare: Aldor Besher\nDatum: April 11\, 2025\nTider: 13-15
+DTEND:20250411T130000Z
+DTSTART:20250411T110000Z
+SUMMARY:Stödtid
+UID:30213656-83a1-481f-b4e1-d4237753239e@3021.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Code Review\n13:00 Finance Experts\n13:30 Wealth Strategists\n14:00 Asset Managers	\n14:30 Trust Executives\n- Code Review\n13:00 Finance Experts\n13:30 Wealth Strategists\n14:00 Asset Managers	\n14:30 Trust Executives\n- Code Review\n13:00 Finance Experts\n13:30 Wealth Strategists\n14:00 Asset Managers	\n14:30 Trust Executives\n\nLärare: Reidar Nilsen\nDatum: November 7\, 2024\nTider: 13-16
+DTEND:20241107T150000Z
+DTSTART:20241107T120000Z
+SUMMARY:Stödtid
+UID:fc60ca67-02a4-4d76-a234-1df393d4a585@fc60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: May 22\, 2025\nTider: 13-16
+DTEND:20250522T140000Z
+DTSTART:20250522T110000Z
+SUMMARY:Stödtid
+UID:0e42d6f9-70c5-45eb-995c-608bddca8a27@0e42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: January 16\, 2025
+DTEND:20250116T090000Z
+DTSTART:20250116T080000Z
+SUMMARY:Lektion
+UID:4d946d85-8387-4ad1-b708-775db9591570@4d94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Backend påverkan på webbplatser\n- API-prestandaoptimering\n- Backend påverkan på webbplatser\n- API-prestandaoptimering\n- Backend påverkan på webbplatser\n- API-prestandaoptimering\n\nLärare: Aldor Besher\nDatum: February 26\, 2025\nTider: 09-12
+DTEND:20250226T110000Z
+DTSTART:20250226T080000Z
+SUMMARY:Lektion
+UID:cce7fb4b-79c8-4109-8354-5f5afc0bd99b@cce7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbara tider\nBokningsbara tider\nBokningsbara tider\n\nLärare: Reidar Nilsen\nDatum: March 14\, 2025\nTider: 13-15
+DTEND:20250314T140000Z
+DTSTART:20250314T120000Z
+SUMMARY:Stöd
+UID:9f6f3fb7-f52c-48a9-865c-700fe9862324@9f6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Uppgift 2 - Individuell reflektion\nUppgift 2 - Individuell reflektion\n\nLärare: Johan Klasson\nDatum: June 19\, 2025\nTider: 23.59
+DTEND:20250619T225900Z
+DTSTART:20250619T215900Z
+SUMMARY:Deadline
+UID:6d16c775-4c9a-494a-bca5-78ca610b0918@6d16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lab 6 – OOP Arv\nLab 6 – OOP Arv\nLab 6 – OOP Arv\n\nLärare: Reidar Nilsen\nDatum: October 27\, 2024\nTider: 23:59
+DTEND:20241027T235900Z
+DTSTART:20241027T225900Z
+SUMMARY:Deadline Lab6
+UID:d9f2ef74-9812-4eea-b69a-29f40ebca761@d9f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Refactorisering\n- Json & Fetch i React\n- Map() & Filter() i React\n- React Bootstrap\n- Github Pages med react\n- Refactorisering\n- Json & Fetch i React\n- Map() & Filter() i React\n- React Bootstrap\n- Github Pages med react\n- Refactorisering\n- Json & Fetch i React\n- Map() & Filter() i React\n- React Bootstrap\n- Github Pages med react\n\nLärare: Aldor Besher\nDatum: February 13\, 2025\nTider: 13-16
+DTEND:20250213T150000Z
+DTSTART:20250213T120000Z
+SUMMARY:Lektion
+UID:ba9ad925-30b5-42d7-b656-7a43e59857bb@ba9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- SEO & teknisk SEO-anpassning\n- Metadata för socialamedier\n- Spårningskoder och händelsespårning\n- SEO & teknisk SEO-anpassning\n- Metadata för socialamedier\n- Spårningskoder och händelsespårning\n- SEO & teknisk SEO-anpassning\n- Metadata för socialamedier\n- Spårningskoder och händelsespårning\n\nLärare: Tobias Landén\nDatum: September 4\, 2025\nTider: 13-16
+DTEND:20250904T140000Z
+DTSTART:20250904T110000Z
+SUMMARY:Lektion på plats
+UID:3c7e20c3-64ea-48f1-850a-2b8c5cf63e92@3c7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- IOC/DI\n- Service & Repository Pattern\n- DTOs\n- IOC/DI\n- Service & Repository Pattern\n- DTOs\n- IOC/DI\n- Service & Repository Pattern\n- DTOs\n\nLärare: Aldor Besher\nDatum: August 20\, 2025\nTider: 13-16
+DTEND:20250820T140000Z
+DTSTART:20250820T110000Z
+SUMMARY:Lektion på distans
+UID:d28027da-e62e-45bb-9a6e-f71cd5a744cb@d280.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid (Individuell)\nBokningsbar tid (Individuell)\n\nLärare: Aldor Besher\nDatum: March 28\, 2025\nTider: 13-15
+DTEND:20250328T140000Z
+DTSTART:20250328T120000Z
+SUMMARY:Stödtid
+UID:e41cf228-b02d-49b3-930e-0e41fd54bbac@e41c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Chas Challenge - Finaldag: Uppgift 1 - Teamprojekt: CC\nChas Challenge - Finaldag: Uppgift 1 - Teamprojekt: CC\nChas Challenge - Finaldag: Uppgift 1 - Teamprojekt: CC\n\nLärare: Johan Klasson\nDatum: June 4\, 2025
+DTEND:20250604T080000Z
+DTSTART:20250604T070000Z
+SUMMARY:CC - Finaldag
+UID:e8a47fdb-7eb0-49ce-b548-e57b756bce8c@e8a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbara tider\nBokningsbara tider\nBokningsbara tider\n\nLärare: Reidar Nilsen\nDatum: December 23\, 2024\nTider: 13:00-16.00
+DTEND:20241223T150000Z
+DTSTART:20241223T120000Z
+SUMMARY:Stödtid
+UID:6bd5873f-66ed-44f9-bffd-22a07182e29e@6bd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: January 23\, 2025
+DTEND:20250123T090000Z
+DTSTART:20250123T080000Z
+SUMMARY:Lektion
+UID:17abfc51-1150-4966-9bb8-470f9dc8ee44@17ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TEMA: Azure & övrigt .NET\n- Introduktion till Azure Portal\n- Deploya till Azure\n- CI/CD Pipelines (Github Actions)\nTEMA: Azure & övrigt .NET\n- Introduktion till Azure Portal\n- Deploya till Azure\n- CI/CD Pipelines (Github Actions)\nTEMA: Azure & övrigt .NET\n- Introduktion till Azure Portal\n- Deploya till Azure\n- CI/CD Pipelines (Github Actions)\n\nLärare: Aldor Besher\nDatum: September 9\, 2025\nTider: 09-12
+DTEND:20250909T100000Z
+DTSTART:20250909T070000Z
+SUMMARY:Lektion på distans
+UID:81e544a8-7d2d-4684-b768-47670fec6f8b@81e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Stödtid för CC och/eller för övrigt i kursen\nStödtid för CC och/eller för övrigt i kursen\n\nLärare: Johan Klasson\nDatum: May 27\, 2025\nTider: 09-16
+DTEND:20250527T140000Z
+DTSTART:20250527T070000Z
+SUMMARY:Stödtid
+UID:47ee47c2-961e-4556-bec6-99c4454be5d4@47ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Handledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\n\nLärare: Aldor Besher\nDatum: November 7\, 2025\nTider: 13-15
+DTEND:20251107T140000Z
+DTSTART:20251107T120000Z
+SUMMARY:Bokningsbar tid
+UID:0cde5aa9-ac61-4ac6-bb5e-a3dadf1c45bb@0cde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Handledningstid (bokningsbar)\nHandledningstid (bokningsbar)\n\nLärare: Aldor Besher\nDatum: October 10\, 2025\nTider: 13-15
+DTEND:20251010T130000Z
+DTSTART:20251010T110000Z
+SUMMARY:Bokningsbar tid
+UID:42ad3931-f50e-4f5f-b5ca-7dec68886e6b@42ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid (Individuell)\nBokningsbar tid (Individuell)\nBokningsbar tid (Individuell)\n\nLärare: Aldor Besher\nDatum: April 4\, 2025\nTider: 13-15
+DTEND:20250404T130000Z
+DTSTART:20250404T110000Z
+SUMMARY:Stödtid
+UID:2b4d9bf8-96ad-4f39-9043-95b2b694537d@2b4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Handledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\n\nLärare: Aldor Besher\nDatum: November 14\, 2025\nTider: 13-15
+DTEND:20251114T140000Z
+DTSTART:20251114T120000Z
+SUMMARY:Bokningsbar tid
+UID:8537f4a2-c0fa-461c-9639-26bde28599bb@8537.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n\nLärare: Aldor Besher\nDatum: November 19\, 2025\nTider: 13-16
+DTEND:20251119T150000Z
+DTSTART:20251119T120000Z
+SUMMARY:på distans
+UID:e37a670f-7d90-4b0a-9f9b-a9b4d06d83e3@e37a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbara tider\nBokningsbara tider\nBokningsbara tider\n\nLärare: Reidar Nilsen\nDatum: January 17\, 2025\nTider: 13-15
+DTEND:20250117T140000Z
+DTSTART:20250117T120000Z
+SUMMARY:Stöd
+UID:84f23672-0aa9-4921-80c2-d1166328f020@84f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Lektioner\n- Övningar databaser\n- Lektioner\n- Övningar databaser\n- Lektioner\n- Övningar databaser\n\nLärare: Reidar Nilsen\nDatum: November 19\, 2024\nTider: 09:00
+DTEND:20241119T090000Z
+DTSTART:20241119T080000Z
+SUMMARY:På plats lektion
+UID:35d431fe-863a-4fd1-bbd5-7c9947981a9a@35d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TEMA: Backend & Databas\n- Intro till kursen\n- ASP.NET Core Web API\n- Skillnad mellan Minimal API och Traditionell API\n- Controllers & Swagger\nTEMA: Backend & Databas\n- Intro till kursen\n- ASP.NET Core Web API\n- Skillnad mellan Minimal API och Traditionell API\n- Controllers & Swagger\n\nLärare: Aldor Besher\nDatum: August 18\, 2025\nTider: 09-12
+DTEND:20250818T100000Z
+DTSTART:20250818T070000Z
+SUMMARY:Lektion på distans
+UID:7ee62360-9b6f-4a25-9757-bffc688d4628@7ee6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LEDIGT\nLEDIGT\nLEDIGT\n\nLärare: Databaser\nDatum: December 24\, 2024
+DTEND:20241224T090000Z
+DTSTART:20241224T080000Z
+SUMMARY:LEDIGT
+UID:0674a674-1e7b-4433-bc3a-7d3888cfdb06@0674.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: January 30\, 2025
+DTEND:20250130T090000Z
+DTSTART:20250130T080000Z
+SUMMARY:Lektion
+UID:88bee182-3f93-4e1f-bb8f-184edbf4b7d3@88be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:– Retro\n– Tid för arbete med projektet i grupp\nTobias tillgänglig 09-10 samt 13-15 och ev. lite vid 11-12 också\n– Retro\n– Tid för arbete med projektet i grupp\nTobias tillgänglig 09-10 samt 13-15 och ev. lite vid 11-12 också\n– Retro\n– Tid för arbete med projektet i grupp\nTobias tillgänglig 09-10 samt 13-15 och ev. lite vid 11-12 också\n\nLärare: Tobias Landén\nDatum: November 12\, 2024\nTider: 9-16
+DTEND:20241112T150000Z
+DTSTART:20241112T080000Z
+SUMMARY:Lektion på plats
+UID:b01ad55c-d75a-4f2e-ae53-f8abfa4c718f@b01a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: April 28\, 2025\nTider: 13-16
+DTEND:20250428T140000Z
+DTSTART:20250428T110000Z
+SUMMARY:Stödtid
+UID:cd98516c-9efa-44c4-aba0-9ebaa2c964b6@cd98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid (Individuell)\nBokningsbar tid (Individuell)\nBokningsbar tid (Individuell)\n\nLärare: Aldor Besher\nDatum: June 5\, 2025\nTider: 10-12
+DTEND:20250605T100000Z
+DTSTART:20250605T080000Z
+SUMMARY:Stödtid
+UID:4b75d412-e614-4d62-a0d3-794a6976c689@4b75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stöd\n- Stöd\n- Stöd\n- Stöd\n\nLärare: Databaser\nDatum: November 22\, 2024\nTider: 13:00-15:00
+DTEND:20241122T140000Z
+DTSTART:20241122T120000Z
+SUMMARY:Stödtid
+UID:053e4a08-484b-48da-afed-4f2d228ae4f6@053e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fördjupning HTML & CSS\n- Formulär\n- Entity Codes\n- CSS Psudoklasser & Psudoelement\nFördjupning HTML & CSS\n- Formulär\n- Entity Codes\n- CSS Psudoklasser & Psudoelement\nFördjupning HTML & CSS\n- Formulär\n- Entity Codes\n- CSS Psudoklasser & Psudoelement\n\nLärare: Aldor Besher\nDatum: January 15\, 2025\nTider: 09-12
+DTEND:20250115T110000Z
+DTSTART:20250115T080000Z
+SUMMARY:Lektion
+UID:8028222e-f58c-4ac5-8cdc-8bf9b3fbcf2c@8028.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: June 5\, 2025\nTider: 13-16
+DTEND:20250605T140000Z
+DTSTART:20250605T110000Z
+SUMMARY:Stödtid
+UID:9f7bc9e7-4d22-4399-bcad-b215f390392c@9f7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Anropa Externa/tredjeparts-API\n- Övning\n- Anropa Externa/tredjeparts-API\n- Övning\n- Anropa Externa/tredjeparts-API\n- Övning\n\nLärare: Aldor Besher\nDatum: March 6\, 2025\nTider: 13-16
+DTEND:20250306T150000Z
+DTSTART:20250306T120000Z
+SUMMARY:Lektion
+UID:86604191-3238-44d7-926f-fd72acf7adf5@8660.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: June 2\, 2025\nTider: 09-12
+DTEND:20250602T100000Z
+DTSTART:20250602T070000Z
+SUMMARY:Stödtid
+UID:dc04d3fe-f311-4d31-bcf2-88b46fc83e58@dc04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Prestanda på en webbplats\n- Stödtid\n- Prestanda på en webbplats\n- Stödtid\n- Prestanda på en webbplats\n- Stödtid\n\nLärare: Aldor Besher\nDatum: February 6\, 2025\nTider: 13-16
+DTEND:20250206T150000Z
+DTSTART:20250206T120000Z
+SUMMARY:Lektion
+UID:26783d8f-5e8d-4c19-8f5a-772c760ac219@2678.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Handledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\n\nLärare: Aldor Besher\nDatum: October 31\, 2025\nTider: 13-15
+DTEND:20251031T140000Z
+DTSTART:20251031T120000Z
+SUMMARY:Bokningsbar tid
+UID:50f36f01-5e44-4913-9989-f83b869e738d@50f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Grunderna i Agila metoder/Det Agila manifestet & Principer\n- Översikt över de vanligaste Agila metoderna\n- Överblick & Sammanfattning framåt\n- Grunderna i Agila metoder/Det Agila manifestet & Principer\n- Översikt över de vanligaste Agila metoderna\n- Överblick & Sammanfattning framåt\n- Grunderna i Agila metoder/Det Agila manifestet & Principer\n- Översikt över de vanligaste Agila metoderna\n- Överblick & Sammanfattning framåt\n\nLärare: Johan Klasson\nDatum: December 17\, 2024\nTider: 09:00-12.00
+DTEND:20241217T110000Z
+DTSTART:20241217T080000Z
+SUMMARY:Lektion på plats
+UID:9e9725ab-b59b-483b-969e-f8d39c02fa67@9e97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n– Mer om objektorientering\n– Encapsulation\,\nAgenda\n– Mer om objektorientering\n– Encapsulation\,\nAgenda\n– Mer om objektorientering\n– Encapsulation\,\n\nLärare: Reidar Nilsen\nDatum: September 25\, 2024\nTider: 9-12
+DTEND:20240925T100000Z
+DTSTART:20240925T070000Z
+SUMMARY:Onlinelektion
+UID:956a03f1-5351-4abc-96f9-a81a4124548a@956a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid (Individuell)\nBokningsbar tid (Individuell)\n\nLärare: Aldor Besher\nDatum: April 16\, 2025\nTider: 13-15
+DTEND:20250416T130000Z
+DTSTART:20250416T110000Z
+SUMMARY:Stödtid
+UID:46042933-a172-4f9f-9beb-3dd0c9d4a4ad@4604.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nytt innehåll\n- Joins\n- Views\, Triggers & Stored Procedures\n\nTidigare innehåll\n-EF sammanfattning\n- Administration och Backup med SQL server\n- Importera och Exportera Data från olika källor.\nNytt innehåll\n- Joins\n- Views\, Triggers & Stored Procedures\n\nTidigare innehåll\n-EF sammanfattning\n- Administration och Backup med SQL server\n- Importera och Exportera Data från olika källor.\nNytt innehåll\n- Joins\n- Views\, Triggers & Stored Procedures\n\nTidigare innehåll\n-EF sammanfattning\n- Administration och Backup med SQL server\n- Importera och Exportera Data från olika källor.\n\nLärare: Anas Alhussain\nDatum: December 9\, 2024\nTider: 13:00-16:00
+DTEND:20241209T150000Z
+DTSTART:20241209T120000Z
+SUMMARY:Lektion online
+UID:b15719ac-1a23-440b-9231-346a80834124@b157.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Handledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\n\nLärare: Aldor Besher\nDatum: September 12\, 2025\nTider: 13-15
+DTEND:20250912T130000Z
+DTSTART:20250912T110000Z
+SUMMARY:Bokningsbar tid
+UID:285a6bcf-3f74-4643-b8c4-5b4f92b447af@285a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Repetition:\n   - Psudoklasser & Psudoelement\n- Avancerad layout\n- CSS Flexbox\n- Repetition:\n   - Psudoklasser & Psudoelement\n- Avancerad layout\n- CSS Flexbox\n\nLärare: Aldor Besher\nDatum: January 16\, 2025\nTider: 13-16
+DTEND:20250116T150000Z
+DTSTART:20250116T120000Z
+SUMMARY:Lektion
+UID:2f2d860c-92f1-42aa-97d3-fc2374cab241@2f2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n– Att felsöka kod\n– Felsökningar i visual studio\n– Repetition kring arrayer och konvertering.\nAgenda\n– Att felsöka kod\n– Felsökningar i visual studio\n– Repetition kring arrayer och konvertering.\nAgenda\n– Att felsöka kod\n– Felsökningar i visual studio\n– Repetition kring arrayer och konvertering.\n\nLärare: Reidar Nilsen\nDatum: September 19\, 2024\nTider: 13-16
+DTEND:20240919T140000Z
+DTSTART:20240919T110000Z
+SUMMARY:Onlinelektion
+UID:e148cf2b-7492-42c3-aa65-19c9daadca65@e148.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Retro\n- Lära känna\n- Administration\n- Introduktion till kursinnehållet & uppgifter (mer information senare i kursen)\n- Projektledning - Introduktion\n- Projektmetoder\n- Retro\n- Lära känna\n- Administration\n- Introduktion till kursinnehållet & uppgifter (mer information senare i kursen)\n- Projektledning - Introduktion\n- Projektmetoder\n- Retro\n- Lära känna\n- Administration\n- Introduktion till kursinnehållet & uppgifter (mer information senare i kursen)\n- Projektledning - Introduktion\n- Projektmetoder\n\nLärare: Johan Klasson\nDatum: December 10\, 2024\nTider: 09:00-16.00
+DTEND:20241210T150000Z
+DTSTART:20241210T080000Z
+SUMMARY:Lektion på plats
+UID:07f602d7-02a3-449e-abcf-902083b1f30e@07f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbara tider\nBokningsbara tider\n\nLärare: Reidar Nilsen\nDatum: December 27\, 2024\nTider: 13:00-15
+DTEND:20241227T140000Z
+DTSTART:20241227T120000Z
+SUMMARY:Stödtid
+UID:14a1c0e0-5692-4497-a439-73f6db2006d5@14a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Grundläggande säkerhet i backend\n- Övning\n- Grundläggande säkerhet i backend\n- Övning\n- Grundläggande säkerhet i backend\n- Övning\n\nLärare: Aldor Besher\nDatum: February 27\, 2025\nTider: 13-16
+DTEND:20250227T150000Z
+DTSTART:20250227T120000Z
+SUMMARY:Lektion
+UID:ddbafc0b-9bb9-4a96-9c34-c8f09b1b417f@ddba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid (Individuell)\nBokningsbar tid (Individuell)\n\nLärare: Aldor Besher\nDatum: April 25\, 2025\nTider: 13-15
+DTEND:20250425T130000Z
+DTSTART:20250425T110000Z
+SUMMARY:Stödtid
+UID:f0e453a9-2d2c-4c54-8bb4-8dd088c492e0@f0e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid projekt och tidigare labbar\n- Stödtid projekt och tidigare labbar\n- Stödtid projekt och tidigare labbar\n\nLärare: Reidar Nilsen\nDatum: November 8\, 2024\nTider: 13-15
+DTEND:20241108T140000Z
+DTSTART:20241108T120000Z
+SUMMARY:Stödtid
+UID:2b029df3-ead1-45c1-9037-2795be0c827b@2b02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: April 30\, 2025\nTider: 09-12
+DTEND:20250430T100000Z
+DTSTART:20250430T070000Z
+SUMMARY:Stödtid
+UID:dd77b246-98b9-42e6-b6a8-83cfaff5c6bf@dd77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid\n- Stödtid\n\nLärare: Aldor Besher\nDatum: March 5\, 2025\nTider: 09-12
+DTEND:20250305T110000Z
+DTSTART:20250305T080000Z
+SUMMARY:Lektion
+UID:c457f7ca-dd0b-461c-90ac-ff447bbe5a4b@c457.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbara stöd tider\nBokningsbara stöd tider\nBokningsbara stöd tider\n\nLärare: Reidar Nilsen\nDatum: February 21\, 2025
+DTEND:20250221T090000Z
+DTSTART:20250221T080000Z
+SUMMARY:Stöd
+UID:ffb8aad1-3fcd-424d-8015-6381a79a7b88@ffb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Responsiv Design\n- Media Queries för mobilanpassning\n- Relativa enheter\n- Responsiv Design\n- Media Queries för mobilanpassning\n- Relativa enheter\n- Responsiv Design\n- Media Queries för mobilanpassning\n- Relativa enheter\n\nDatum: January 9\, 2025
+DTEND:20250109T090000Z
+DTSTART:20250109T080000Z
+SUMMARY:Lektion
+UID:fe3bda48-4330-4b08-a4b3-f0112436a62a@fe3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:– WCAG & UX-analys\n– WCAG & UX-analys\n– WCAG & UX-analys\n\nLärare: Jumi Strandberg\nDatum: March 12\, 2025\nTider: 09-12
+DTEND:20250312T110000Z
+DTSTART:20250312T080000Z
+SUMMARY:Lektion
+UID:636fabc6-902e-4278-8600-7fa4b0d42b1a@636f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CC-Kickoff!\nCC-Kickoff!\nCC-Kickoff!\n\nLärare: Frontendutveckling & UX\nDatum: March 10\, 2025\nTider: 13-16
+DTEND:20250310T150000Z
+DTSTART:20250310T120000Z
+SUMMARY:Lektion på plats
+UID:c4bb437c-e49a-4090-96ab-84ac5a430a75@c4bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Stödtid för projekt\nStödtid för projekt\n\nLärare: Anas Alhussain\nDatum: December 18\, 2024\nTider: 09:00-12
+DTEND:20241218T110000Z
+DTSTART:20241218T080000Z
+SUMMARY:Lektion online
+UID:ed8ebe6f-151c-41e5-acab-ea716577e717@ed8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- JS Funktioner\n- Variable Scope\n- Introduktion till DOM\n- JS Funktioner\n- Variable Scope\n- Introduktion till DOM\n- JS Funktioner\n- Variable Scope\n- Introduktion till DOM\n\nLärare: Aldor Besher\nDatum: January 29\, 2025\nTider: 09-12
+DTEND:20250129T110000Z
+DTSTART:20250129T080000Z
+SUMMARY:Lektion
+UID:75672688-cd58-452c-9430-7616e3ffd135@7567.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lab 5 – Grunderna OOP\nLab 5 – Grunderna OOP\nLab 5 – Grunderna OOP\n\nLärare: Reidar Nilsen\nDatum: October 25\, 2024\nTider: 23:59
+DTEND:20241025T225900Z
+DTSTART:20241025T215900Z
+SUMMARY:Deadline Lab5
+UID:f9127290-ec25-413c-ac34-2b1b052797eb@f912.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid med projekt\n- Stödtid med projekt\n\nLärare: Aldor Besher\nDatum: October 20\, 2025\nTider: 09-12
+DTEND:20251020T100000Z
+DTSTART:20251020T070000Z
+SUMMARY:på distans
+UID:617ef8ca-511f-42be-bbf6-80b0cb4ff16c@617e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Rep. code-first databas\n- T-SQL & Lås i databaser\n- Att bygga en avancerad databas.\n- Rep. code-first databas\n- T-SQL & Lås i databaser\n- Att bygga en avancerad databas.\n- Rep. code-first databas\n- T-SQL & Lås i databaser\n- Att bygga en avancerad databas.\n\nLärare: Aldor Besher\nDatum: August 19\, 2025\nTider: 13-16
+DTEND:20250819T140000Z
+DTSTART:20250819T110000Z
+SUMMARY:Lektion på distans
+UID:ae742ae9-a54b-418c-8570-06b8d7e63b8a@ae74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n\nLärare: Aldor Besher\nDatum: November 3\, 2025\nTider: 09-12
+DTEND:20251103T110000Z
+DTSTART:20251103T080000Z
+SUMMARY:på distans
+UID:aa660cb8-330d-4ebe-b771-a9d4041073ad@aa66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: April 30\, 2025\nTider: 13-16
+DTEND:20250430T140000Z
+DTSTART:20250430T110000Z
+SUMMARY:Stödtid
+UID:4bbcb6d8-404e-42a7-8cf5-52f2a917d96b@4bbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lärare: Reidar Nilsen\nDatum: September 13\, 2024\nTider: 13-15
+DTEND:20240913T130000Z
+DTSTART:20240913T110000Z
+SUMMARY:Stödtid
+UID:41ac9b23-9e3e-4ec2-984d-c6b94ab27d6a@41ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n\nLärare: Aldor Besher\nDatum: October 22\, 2025\nTider: 13-16
+DTEND:20251022T140000Z
+DTSTART:20251022T110000Z
+SUMMARY:på distans
+UID:c4450697-73ba-4cc7-a453-23d07654c775@c445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid \nKontakta Aldor via slack om du behöver stöd\n- Stödtid \nKontakta Aldor via slack om du behöver stöd\n- Stödtid \nKontakta Aldor via slack om du behöver stöd\n\nLärare: Aldor Besher\nDatum: February 17\, 2025\nTider: 13-16
+DTEND:20250217T150000Z
+DTSTART:20250217T120000Z
+SUMMARY:Lektion
+UID:8d66c914-c27f-421b-98e7-1df169e87b35@8d66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbara tider\nBokningsbara tider\nBokningsbara tider\n\nLärare: Reidar Nilsen\nDatum: February 14\, 2025\nTider: 13-15
+DTEND:20250214T140000Z
+DTSTART:20250214T120000Z
+SUMMARY:Stöd
+UID:f5f728a5-766d-4168-bf85-6961f1e17744@f5f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Redovisningar av slutprojektet\n- Stödtid\n- Redovisningar av slutprojektet\n- Stödtid\n- Redovisningar av slutprojektet\n- Stödtid\n\nLärare: Reidar Nilsen\nDatum: November 14\, 2024\nTider: 13-16
+DTEND:20241114T150000Z
+DTSTART:20241114T120000Z
+SUMMARY:Stödtid
+UID:52015e4c-cf41-4a3a-a1bf-9e9eada2c524@5201.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Introduktion till CSS\n   - Olika sätt att koppla CSS till HTML\n   - Grundläggande syntax i CSS\n- Boxmodellen\n- Introduktion till CSS\n   - Olika sätt att koppla CSS till HTML\n   - Grundläggande syntax i CSS\n- Boxmodellen\n- Introduktion till CSS\n   - Olika sätt att koppla CSS till HTML\n   - Grundläggande syntax i CSS\n- Boxmodellen\n\nLärare: Aldor Besher\nDatum: January 8\, 2025\nTider: 9-12
+DTEND:20250108T110000Z
+DTSTART:20250108T080000Z
+SUMMARY:Lektion
+UID:5c7f31a0-0685-4caa-bd43-3ab5209c77b9@5c7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lärare: Avancerad fullstackutveckling\nDatum: August 29\, 2025
+DTEND:20250829T080000Z
+DTSTART:20250829T070000Z
+SUMMARY:DEADLINE Labb 1
+UID:6844354c-0452-4399-8c82-8c180a2ad57d@6844.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n– Konvertering\n– Programflöde\n– Arrayer\n– Loopar\n  – While & Do While \n  – For & Foreach\nAgenda\n– Konvertering\n– Programflöde\n– Arrayer\n– Loopar\n  – While & Do While \n  – For & Foreach\nAgenda\n– Konvertering\n– Programflöde\n– Arrayer\n– Loopar\n  – While & Do While \n  – For & Foreach\n\nLärare: Reidar Nilsen\nDatum: September 12\, 2024\nTider: 13-16
+DTEND:20240912T140000Z
+DTSTART:20240912T110000Z
+SUMMARY:Onlinelektion
+UID:d9f584ff-3375-491a-8933-ba720b3b03e0@d9f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid/repetition\n- Stödtid/repetition\n- Stödtid/repetition\n\nLärare: Aldor Besher\nDatum: September 25\, 2025\nTider: 09-12
+DTEND:20250925T100000Z
+DTSTART:20250925T070000Z
+SUMMARY:Lektion på distans
+UID:1f24c365-2705-4419-940f-c3f25d856ea0@1f24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Handledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\n\nLärare: Aldor Besher\nDatum: November 21\, 2025\nTider: 13-15
+DTEND:20251121T140000Z
+DTSTART:20251121T120000Z
+SUMMARY:Bokningsbar tid
+UID:dd44001b-21cf-4326-8f62-61543442350c@dd44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Mer React\n- Material UI\n- Mer React\n- Material UI\n- Mer React\n- Material UI\n\nLärare: Aldor Besher\nDatum: September 3\, 2025\nTider: 13-16
+DTEND:20250903T140000Z
+DTSTART:20250903T110000Z
+SUMMARY:Lektion på distans
+UID:aa1a4507-aeee-450a-b0cd-8fe005318869@aa1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: January 15\, 2025
+DTEND:20250115T090000Z
+DTSTART:20250115T080000Z
+SUMMARY:Lektion
+UID:6ed9e323-6e30-4475-abde-a8c5e167723f@6ed9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Repetition och stöd\n- Repetition och stöd\n- Repetition och stöd\n\nLärare: Tobias Landén\nDatum: November 26\, 2024\nTider: 09:00
+DTEND:20241126T090000Z
+DTSTART:20241126T080000Z
+SUMMARY:Lektion på plats
+UID:08cb8f65-d33a-4fc0-ac03-b4474a97d494@08cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: April 23\, 2025\nTider: 09-12
+DTEND:20250423T100000Z
+DTSTART:20250423T070000Z
+SUMMARY:Stödtid
+UID:5c6b3e5a-cc9f-4a20-a7ec-9ed28257432c@5c6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: January 31\, 2025
+DTEND:20250131T090000Z
+DTSTART:20250131T080000Z
+SUMMARY:Stöd
+UID:281211ac-e22d-4b41-9356-19916c77f9cc@2812.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: April 14\, 2025\nTider: 13-16
+DTEND:20250414T140000Z
+DTSTART:20250414T110000Z
+SUMMARY:Stödtid
+UID:95a4adcd-e3ea-46ff-b3ee-4222870b02e4@95a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lärare: Avancerad fullstackutveckling\nDatum: September 26\, 2025
+DTEND:20250926T080000Z
+DTSTART:20250926T070000Z
+SUMMARY:DEADLINE Labb 3
+UID:abb2a5c0-5283-47e5-be5f-10fdeb901667@abb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TEMA: AI\n- Uppstart Grupp projekt\n- Integrera AI i .NET applikation\nTEMA: AI\n- Uppstart Grupp projekt\n- Integrera AI i .NET applikation\n\nLärare: Aldor Besher\nDatum: September 22\, 2025\nTider: 09-12
+DTEND:20250922T100000Z
+DTSTART:20250922T070000Z
+SUMMARY:Lektion på distans
+UID:8f684c38-6282-4958-865b-93d7b7b5ce59@8f68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Handledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\n\nLärare: Aldor Besher\nDatum: October 3\, 2025\nTider: 13-15
+DTEND:20251003T130000Z
+DTSTART:20251003T110000Z
+SUMMARY:Bokningsbar tid
+UID:dbe272b1-cf07-4af6-b9c3-b95626ec5f59@dbe2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LEDIGT\nLEDIGT\n\nLärare: Databaser\nDatum: January 1\, 2025
+DTEND:20250101T090000Z
+DTSTART:20250101T080000Z
+SUMMARY:LEDIGT
+UID:78e36f74-bf7e-442d-ae22-c96d4d4b6387@78e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbara tider\nBokningsbara tider\nBokningsbara tider\n\nLärare: Reidar Nilsen\nDatum: January 3\, 2025\nTider: 13:00-15:00
+DTEND:20250103T140000Z
+DTSTART:20250103T120000Z
+SUMMARY:Stödtid
+UID:369e13cb-e806-4bb3-8a07-53da8e695872@369e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: May 14\, 2025\nTider: 13-16
+DTEND:20250514T140000Z
+DTSTART:20250514T110000Z
+SUMMARY:Stödtid
+UID:e5bc2174-8da9-4edc-9d0b-fbba51460bcb@e5bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TEMA: Frontend med MVC\n- Asp.net Core Web App (MVC)\n- Models\, Views & Controllers\n- Blazor & Razor\n- WebAssembly\nTEMA: Frontend med MVC\n- Asp.net Core Web App (MVC)\n- Models\, Views & Controllers\n- Blazor & Razor\n- WebAssembly\nTEMA: Frontend med MVC\n- Asp.net Core Web App (MVC)\n- Models\, Views & Controllers\n- Blazor & Razor\n- WebAssembly\n\nLärare: Aldor Besher\nDatum: August 25\, 2025\nTider: 09-12
+DTEND:20250825T100000Z
+DTSTART:20250825T070000Z
+SUMMARY:Lektion på distans
+UID:347dfa9a-9d1e-4b6a-819c-cd3d548e2d9d@347d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid projekt\n- Stödtid projekt\n- Stödtid projekt\n\nLärare: Reidar Nilsen\nDatum: November 11\, 2024\nTider: 13-16
+DTEND:20241111T150000Z
+DTSTART:20241111T120000Z
+SUMMARY:Stödtid
+UID:f86cc599-7a91-45b2-b300-caa84706e992@f86c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbara tider\nBokningsbara tider\n\nLärare: Reidar Nilsen\nDatum: December 20\, 2024\nTider: 13:00-15:00
+DTEND:20241220T140000Z
+DTSTART:20241220T120000Z
+SUMMARY:Stödtid
+UID:1a945c54-a646-462b-8d86-de11e2f93f94@1a94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: May 14\, 2025\nTider: 09-12
+DTEND:20250514T100000Z
+DTSTART:20250514T070000Z
+SUMMARY:Stödtid
+UID:a44ee1f5-6538-42f3-9e74-6cb2d969755f@a44e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: May 19\, 2025\nTider: 13-16
+DTEND:20250519T140000Z
+DTSTART:20250519T110000Z
+SUMMARY:Stödtid
+UID:10847ba0-25e1-427f-88ab-503fedaf92d3@1084.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nytt innehåll\n– Quiz kring tidigare innehåll\n– Introduktion till ORM:er och Entity Framework (EF)\n\nTidigare innehåll\n- Säkerhet\n- Constraints\n- Transactions\n- Stödtid\nNytt innehåll\n– Quiz kring tidigare innehåll\n– Introduktion till ORM:er och Entity Framework (EF)\n\nTidigare innehåll\n- Säkerhet\n- Constraints\n- Transactions\n- Stödtid\nNytt innehåll\n– Quiz kring tidigare innehåll\n– Introduktion till ORM:er och Entity Framework (EF)\n\nTidigare innehåll\n- Säkerhet\n- Constraints\n- Transactions\n- Stödtid\nNytt innehåll\n– Quiz kring tidigare innehåll\n– Introduktion till ORM:er och Entity Framework (EF)\n\nTidigare innehåll\n- Säkerhet\n- Constraints\n- Transactions\n- Stödtid\n\nLärare: Aldor Besher\nDatum: December 2\, 2024\nTider: 13:00-16:00
+DTEND:20241202T150000Z
+DTSTART:20241202T120000Z
+SUMMARY:Lektion online
+UID:1fb883a4-a38a-4592-8d82-9a9fd8182a2c@1fb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Environment Variables\n- Fluent API och Indexing\n- Environment Variables\n- Fluent API och Indexing\n- Environment Variables\n- Fluent API och Indexing\n\nLärare: Aldor Besher\nDatum: August 21\, 2025\nTider: 09-12
+DTEND:20250821T100000Z
+DTSTART:20250821T070000Z
+SUMMARY:Lektion på distans
+UID:fdccff20-fcdf-4c59-a34c-3e7ad7ed06a9@fdcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Microservices\n- API begränsning (Rate Limiting)\n- Stödtid\n- Microservices\n- API begränsning (Rate Limiting)\n- Stödtid\n\nLärare: Aldor Besher\nDatum: October 6\, 2025\nTider: 09-12
+DTEND:20251006T100000Z
+DTSTART:20251006T070000Z
+SUMMARY:Lektion på distans
+UID:f8076d5e-b15a-4c53-be11-15c9ae820898@f807.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nytt innehåll\n– Genomgång av uppgiften den 3:e december.\n– Grupperna visar sina lösningar och läraren och klassen ger feedback\n\nTidigare innehåll\n- Olika typer av databaser\n- ORM (Entity Framework)\, skillnaden mot “ren” SQL\n- Anropa databaser med ORM\nNytt innehåll\n– Genomgång av uppgiften den 3:e december.\n– Grupperna visar sina lösningar och läraren och klassen ger feedback\n\nTidigare innehåll\n- Olika typer av databaser\n- ORM (Entity Framework)\, skillnaden mot “ren” SQL\n- Anropa databaser med ORM\nNytt innehåll\n– Genomgång av uppgiften den 3:e december.\n– Grupperna visar sina lösningar och läraren och klassen ger feedback\n\nTidigare innehåll\n- Olika typer av databaser\n- ORM (Entity Framework)\, skillnaden mot “ren” SQL\n- Anropa databaser med ORM\nNytt innehåll\n– Genomgång av uppgiften den 3:e december.\n– Grupperna visar sina lösningar och läraren och klassen ger feedback\n\nTidigare innehåll\n- Olika typer av databaser\n- ORM (Entity Framework)\, skillnaden mot “ren” SQL\n- Anropa databaser med ORM\n\nLärare: Aldor Besher\nDatum: December 4\, 2024\nTider: 09:00-12:00
+DTEND:20241204T110000Z
+DTSTART:20241204T080000Z
+SUMMARY:Lektion online
+UID:221441ac-c2dd-44e4-b794-9a2f91acbd34@2214.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Labb 3 – Anropa databasen (SQL & ORM)\nLabb 3 – Anropa databasen (SQL & ORM)\nLabb 3 – Anropa databasen (SQL & ORM)\n\nLärare: Databaser\nDatum: December 15\, 2024\nTider: 23:59
+DTEND:20241215T235900Z
+DTSTART:20241215T225900Z
+SUMMARY:Deadline
+UID:31ab45f5-abd1-45fd-b9d1-ff400bd5f7f4@31ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:– Retro\n– Övningar kring databaser\n– Retro\n– Övningar kring databaser\n– Retro\n– Övningar kring databaser\n– Retro\n– Övningar kring databaser\n\nLärare: Tobias Landén\nDatum: December 3\, 2024\nTider: 09:00
+DTEND:20241203T090000Z
+DTSTART:20241203T080000Z
+SUMMARY:Lektion på plats
+UID:e9d63e06-747c-4484-ab56-c2fcc5dc46ea@e9d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbara tider\nBokningsbara tider\nBokningsbara tider\n\nLärare: Reidar Nilsen\nDatum: March 7\, 2025\nTider: 13-15
+DTEND:20250307T140000Z
+DTSTART:20250307T120000Z
+SUMMARY:Stöd
+UID:ca9715fd-9593-44b3-bcfc-51fafcea4cef@ca97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: April 10\, 2025\nTider: 13-16
+DTEND:20250410T140000Z
+DTSTART:20250410T110000Z
+SUMMARY:Stödtid
+UID:ca309432-2034-48c6-9929-daac9fe07d80@ca30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: April 24\, 2025\nTider: 13-16
+DTEND:20250424T140000Z
+DTSTART:20250424T110000Z
+SUMMARY:Stödtid
+UID:118b1280-cdec-4e1a-bcd5-27a9e11557dd@118b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LEDIGT\nLEDIGT\n\nLärare: Databaser\nDatum: December 25\, 2024
+DTEND:20241225T090000Z
+DTSTART:20241225T080000Z
+SUMMARY:LEDIGT
+UID:2a35de3a-d0a2-4900-a79b-3f66f937dfe5@2a35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n- Repetition \n– Versionshantering och Git \n– Öva på Git och versionshantering\nStöd tid med labbar\nAgenda\n- Repetition \n– Versionshantering och Git \n– Öva på Git och versionshantering\nStöd tid med labbar\nAgenda\n- Repetition \n– Versionshantering och Git \n– Öva på Git och versionshantering\nStöd tid med labbar\n\nLärare: Reidar Nilsen\nDatum: October 10\, 2024\nTider: 13:00-16:00
+DTEND:20241010T140000Z
+DTSTART:20241010T110000Z
+SUMMARY:Onlinelektion
+UID:4f399b78-4975-4221-87e1-1079eae7d1d8@4f39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lärare: Reidar Nilsen\nDatum: September 20\, 2024\nTider: 13-15
+DTEND:20240920T130000Z
+DTSTART:20240920T110000Z
+SUMMARY:Stödtid
+UID:bcbb6dc5-8f78-42c3-b3aa-41c7b29e57ce@bcbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n– Introduktion till objektorientering\n– Klasser och Objekt\nAgenda\n– Introduktion till objektorientering\n– Klasser och Objekt\nAgenda\n– Introduktion till objektorientering\n– Klasser och Objekt\n\nLärare: Reidar Nilsen\nDatum: September 23\, 2024\nTider: 13-16
+DTEND:20240923T140000Z
+DTSTART:20240923T110000Z
+SUMMARY:Onlinelektion
+UID:f3ed04d1-e41c-4936-abde-bf5f76434463@f3ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n– Multitrådning och asynkrona processer.\nAgenda\n– Multitrådning och asynkrona processer.\nAgenda\n– Multitrådning och asynkrona processer.\n\nLärare: Reidar Nilsen\nDatum: October 16\, 2024\nTider: 09:00-12:00
+DTEND:20241016T100000Z
+DTSTART:20241016T070000Z
+SUMMARY:Onlinelektion
+UID:32505644-b6dc-4272-a393-85cad6a9748a@3250.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lab 1 – Mitt första program\nLab 1 – Mitt första program\nLab 1 – Mitt första program\n\nLärare: Reidar Nilsen\nDatum: September 22\, 2024\nTider: 23:59
+DTEND:20240922T225900Z
+DTSTART:20240922T215900Z
+SUMMARY:Deadline Lab1
+UID:a743ae1e-e154-4d29-9366-ebb85a1729c7@a743.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:– Retro\n– Gruppövning: The OOP Hotel (part 2)\n– Retro\n– Gruppövning: The OOP Hotel (part 2)\n– Retro\n– Gruppövning: The OOP Hotel (part 2)\n\nLärare: Tobias Landén\nDatum: October 1\, 2024\nTider: 9-16
+DTEND:20241001T140000Z
+DTSTART:20241001T070000Z
+SUMMARY:Lektion på plats
+UID:8c2f412b-2658-4b7a-af3c-f5eff171e6a4@8c2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n– Enum\n- Interface\nAgenda\n– Enum\n- Interface\nAgenda\n– Enum\n- Interface\n\nLärare: Reidar Nilsen\nDatum: October 2\, 2024\nTider: 09:00-12:00
+DTEND:20241002T100000Z
+DTSTART:20241002T070000Z
+SUMMARY:Onlinelektion
+UID:9d34ea95-41ab-466d-a8ff-33951672ed2a@9d34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Mera Datatyper i SQL \n- Mera om Primära och främmande nycklar\n- Repetition En till många-relation och många till många-lösningar.\n- Mera Datatyper i SQL \n- Mera om Primära och främmande nycklar\n- Repetition En till många-relation och många till många-lösningar.\n- Mera Datatyper i SQL \n- Mera om Primära och främmande nycklar\n- Repetition En till många-relation och många till många-lösningar.\n\nLärare: Reidar Nilsen\nDatum: November 20\, 2024\nTider: 09:00-12:00
+DTEND:20241120T110000Z
+DTSTART:20241120T080000Z
+SUMMARY:Online lektion
+UID:13e944d7-b582-4f38-ad3f-064755cd1cf7@13e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:– Redovisning av studiebesök\n– Frågestund kring individuella inlämningen och teorin i kursen.\n– Redovisning av studiebesök\n– Frågestund kring individuella inlämningen och teorin i kursen.\n– Redovisning av studiebesök\n– Frågestund kring individuella inlämningen och teorin i kursen.\n\nLärare: Tobias Landén\nDatum: September 10\, 2024\nTider: 9-16
+DTEND:20240910T140000Z
+DTSTART:20240910T070000Z
+SUMMARY:Lektion på plats
+UID:cd3f4b4f-6875-49f0-a8e5-3c4786d2da35@cd3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nytt innehåll\nHandledning\, Boka tider\n\nTidigare innehåll\n- Repetition ORM\n- Entity Framework\n- LINQ\nNytt innehåll\nHandledning\, Boka tider\n\nTidigare innehåll\n- Repetition ORM\n- Entity Framework\n- LINQ\nNytt innehåll\nHandledning\, Boka tider\n\nTidigare innehåll\n- Repetition ORM\n- Entity Framework\n- LINQ\nNytt innehåll\nHandledning\, Boka tider\n\nTidigare innehåll\n- Repetition ORM\n- Entity Framework\n- LINQ\n\nLärare: Reidar Nilsen\nDatum: December 5\, 2024\nTider: 13:00-16:00
+DTEND:20241205T150000Z
+DTSTART:20241205T120000Z
+SUMMARY:Stödtid
+UID:37654b87-da21-4112-8b85-2fb5bf03b07e@3765.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: January 27\, 2025
+DTEND:20250127T090000Z
+DTSTART:20250127T080000Z
+SUMMARY:Lektion
+UID:ab712f64-7b3d-43d9-91ee-8929a3c2ec7f@ab71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: April 2\, 2025\nTider: 09-12
+DTEND:20250402T100000Z
+DTSTART:20250402T070000Z
+SUMMARY:Stödtid
+UID:ea3df95c-5a98-41a9-beb3-b453c0f33080@ea3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lärare: Reidar Nilsen\nDatum: October 25\, 2024\nTider: 13-15
+DTEND:20241025T130000Z
+DTSTART:20241025T110000Z
+SUMMARY:Stödtid
+UID:1e340bd7-1e99-4302-b143-a33d7eb4cc53@1e34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Labb 2 – ER-modellering och SQL\nLabb 2 – ER-modellering och SQL\nLabb 2 – ER-modellering och SQL\n\nLärare: Reidar Nilsen\nDatum: December 8\, 2024\nTider: 23:59
+DTEND:20241208T235900Z
+DTSTART:20241208T225900Z
+SUMMARY:Deadline
+UID:847dc263-8a68-466d-87eb-50b49a61f2b9@847d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:– Retro\n– Gruppövning: The OOP Hotel\n– Retro\n– Gruppövning: The OOP Hotel\n– Retro\n– Gruppövning: The OOP Hotel\n\nLärare: Tobias Landén\nDatum: September 24\, 2024\nTider: 9-16
+DTEND:20240924T140000Z
+DTSTART:20240924T070000Z
+SUMMARY:Lektion på plats
+UID:830cbf5f-6754-4cf8-a2ec-f1a09f2c6b89@830c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Avancerad Git\n- Att arbeta i team med git\n- Github Projects\n- Avancerad Git\n- Att arbeta i team med git\n- Github Projects\n\nLärare: Aldor Besher\nDatum: September 18\, 2025\nTider: 09-12
+DTEND:20250918T100000Z
+DTSTART:20250918T070000Z
+SUMMARY:Lektion på distans
+UID:9645377d-1133-481b-b2fd-38dfd6a3edd0@9645.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n\nLärare: Aldor Besher\nDatum: November 12\, 2025\nTider: 13-16
+DTEND:20251112T150000Z
+DTSTART:20251112T120000Z
+SUMMARY:på distans
+UID:f9740908-2cdb-41cd-834d-8f5aa49cc140@f974.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- CC-information\n- Sista tips för Genomförandefasen\n- Att presentera inför grupp: Retorik & Presentationsteknik\n- Administration & Överblick framåt\n- CC-information\n- Sista tips för Genomförandefasen\n- Att presentera inför grupp: Retorik & Presentationsteknik\n- Administration & Överblick framåt\n\nLärare: Johan Klasson\nDatum: May 21\, 2025\nTider: 09-12
+DTEND:20250521T100000Z
+DTSTART:20250521T070000Z
+SUMMARY:Lektion på plats
+UID:bc7204ac-8687-4ce6-9fb0-931d9a2ab693@bc72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Utvärdera\, rapportera & AVSLUTA projekt\n- Gemensam reflektion & Lärdomar\n- Gruppreflektion\n- Repetition\n- Genomgång: Uppgift 2 - Individuell inlämning\n- Administration & Överblick framåt\n- Utvärdera\, rapportera & AVSLUTA projekt\n- Gemensam reflektion & Lärdomar\n- Gruppreflektion\n- Repetition\n- Genomgång: Uppgift 2 - Individuell inlämning\n- Administration & Överblick framåt\n\nLärare: Johan Klasson\nDatum: June 10\, 2025\nTider: 09-16
+DTEND:20250610T140000Z
+DTSTART:20250610T070000Z
+SUMMARY:Lektion på plats
+UID:a917e414-51c8-49b9-a625-3ea00c9899e9@a917.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:– Retro\n– Workshop\n– Retro\n– Workshop\n\nLärare: Tobias Landén\nDatum: October 29\, 2024\nTider: 9-16
+DTEND:20241029T150000Z
+DTSTART:20241029T080000Z
+SUMMARY:Lektion på plats
+UID:6f5f7a59-8c08-4e13-9e1e-d64e6c54e241@6f5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:– Retro\n– Workshop\n– Retro\n– Workshop\n– Retro\n– Workshop\n\nLärare: Tobias Landén\nDatum: November 5\, 2024\nTider: 9-16
+DTEND:20241105T150000Z
+DTSTART:20241105T080000Z
+SUMMARY:Lektion på plats
+UID:a95e2195-d384-435d-8c18-999b0f21e543@a95e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Teorihandbok – Databaser\nTeorihandbok – Databaser\n\nLärare: Databaser\nDatum: December 22\, 2024\nTider: 23:59
+DTEND:20241222T235900Z
+DTSTART:20241222T225900Z
+SUMMARY:Deadline
+UID:8f926732-34bd-4c21-8c49-ffdf51e5e229@8f92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Information\n- Pulsmätning (fd “Retro”)\n- Övningar\n- Information\n- Pulsmätning (fd “Retro”)\n- Övningar\n- Information\n- Pulsmätning (fd “Retro”)\n- Övningar\n\nLärare: Johan Klasson\nDatum: January 14\, 2025\nTider: 09-16
+DTEND:20250114T150000Z
+DTSTART:20250114T080000Z
+SUMMARY:Lektion på plats
+UID:d2a295ed-f6e9-49d8-9c89-d3091f6b66a4@d2a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: January 22\, 2025
+DTEND:20250122T090000Z
+DTSTART:20250122T080000Z
+SUMMARY:Lektion
+UID:89197df7-c028-4dec-b788-1403af323858@8919.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid med projekt\n- Stödtid med projekt\n\nLärare: Aldor Besher\nDatum: October 8\, 2025\nTider: 13-16
+DTEND:20251008T140000Z
+DTSTART:20251008T110000Z
+SUMMARY:på distans
+UID:53ae58ca-8d39-415f-98b3-6269e08a2260@53ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n\nLärare: Aldor Besher\nDatum: November 24\, 2025\nTider: 09-12
+DTEND:20251124T110000Z
+DTSTART:20251124T080000Z
+SUMMARY:på distans
+UID:4d4a0b23-533c-4bb3-815c-1ae78a3e0fdc@4d4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Vanligaste funktioner för DOM\n- DOM-manipulation\n- DOM-events\n- Objekt literals\n- Vanligaste funktioner för DOM\n- DOM-manipulation\n- DOM-events\n- Objekt literals\n- Vanligaste funktioner för DOM\n- DOM-manipulation\n- DOM-events\n- Objekt literals\n\nLärare: Aldor Besher\nDatum: January 30\, 2025\nTider: 13-16
+DTEND:20250130T150000Z
+DTSTART:20250130T120000Z
+SUMMARY:Lektion
+UID:d5094dfa-d112-407a-a6ab-986b55c9b408@d509.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lärare: Avancerad fullstackutveckling\nDatum: November 28\, 2025
+DTEND:20251128T090000Z
+DTSTART:20251128T080000Z
+SUMMARY:DEADLINE - Individuell Reflektion
+UID:7d8c4ccb-9ac4-4a01-822f-6ab262d08478@7d8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbara tider\nBokningsbara tider\n\nLärare: Reidar Nilsen\nDatum: January 2\, 2025\nTider: 13:00-16:00
+DTEND:20250102T150000Z
+DTSTART:20250102T120000Z
+SUMMARY:Stödtid
+UID:be344110-d847-4600-a5c4-56c478f04569@be34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nytt innehåll\n- Mer om Entity Framework\n- LINQ\n\nTidigare innehåll\n- Övningar med fokus på mer avancerade LINQ.\n- Start av individuellt projekt.\nNytt innehåll\n- Mer om Entity Framework\n- LINQ\n\nTidigare innehåll\n- Övningar med fokus på mer avancerade LINQ.\n- Start av individuellt projekt.\nNytt innehåll\n- Mer om Entity Framework\n- LINQ\n\nTidigare innehåll\n- Övningar med fokus på mer avancerade LINQ.\n- Start av individuellt projekt.\n\nLärare: Anas Alhussain\nDatum: December 11\, 2024\nTider: 09:00-12:00
+DTEND:20241211T110000Z
+DTSTART:20241211T080000Z
+SUMMARY:Lektion online
+UID:bbb5d94a-9e83-4293-8c42-eef0178df3ad@bbb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CC - Projektredovisning på skolan\nCC - Projektredovisning på skolan\nCC - Projektredovisning på skolan\n\nLärare: Backendutveckling & API\nDatum: June 4\, 2025\nTider: 09-16
+DTEND:20250604T140000Z
+DTSTART:20250604T070000Z
+SUMMARY:På plats
+UID:06816387-6d30-4b12-bf4b-066da8ba5b4a@0681.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Handledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\n\nLärare: Aldor Besher\nDatum: August 22\, 2025\nTider: 13-15
+DTEND:20250822T130000Z
+DTSTART:20250822T110000Z
+SUMMARY:Bokningsbar tid
+UID:302d1265-6e31-47ac-ac41-9a3eea199697@302d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Mer React\n- Statehantering\n- Mer React\n- Statehantering\n\nLärare: Aldor Besher\nDatum: September 2\, 2025\nTider: 13-16
+DTEND:20250902T140000Z
+DTSTART:20250902T110000Z
+SUMMARY:Lektion på distans
+UID:22ebe78e-a310-4089-aaa0-07c0f86c25f1@22eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n\nLärare: Aldor Besher\nDatum: November 10\, 2025\nTider: 09-12
+DTEND:20251110T110000Z
+DTSTART:20251110T080000Z
+SUMMARY:på distans
+UID:2195423a-92ca-4ea3-887b-5f7fb04dbcd0@2195.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Boka tider\n- Boka tider\n- Boka tider\n\nLärare: Reidar Nilsen\nDatum: December 13\, 2024\nTider: 13:00-15:00
+DTEND:20241213T140000Z
+DTSTART:20241213T120000Z
+SUMMARY:Stödtid
+UID:c8ec339c-90e2-453a-9de1-91ee161023e2@c8ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lab 3 – Gissa numret\nLab 3 – Gissa numret\nLab 3 – Gissa numret\n\nLärare: Reidar Nilsen\nDatum: October 6\, 2024\nTider: 23:59
+DTEND:20241006T225900Z
+DTSTART:20241006T215900Z
+SUMMARY:Deadline Lab3
+UID:2a077d5b-016e-4786-80c4-8336fc705a94@2a07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Props\n- React Hooks (useState\, useEffect)\n- React Router\n- Props\n- React Hooks (useState\, useEffect)\n- React Router\n- Props\n- React Hooks (useState\, useEffect)\n- React Router\n\nLärare: Aldor Besher\nDatum: February 12\, 2025\nTider: 09-12
+DTEND:20250212T110000Z
+DTSTART:20250212T080000Z
+SUMMARY:Lektion
+UID:efcb3735-48c8-442a-9037-dc132087e3d5@efcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: May 7\, 2025\nTider: 09-12
+DTEND:20250507T100000Z
+DTSTART:20250507T070000Z
+SUMMARY:Stödtid
+UID:91c1fdaa-2c6c-459e-92ac-d0f96892b966@91c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbara tider\nBokningsbara tider\nBokningsbara tider\n\nLärare: Reidar Nilsen\nDatum: February 7\, 2025\nTider: 13-15
+DTEND:20250207T140000Z
+DTSTART:20250207T120000Z
+SUMMARY:Stöd
+UID:e19fc1ed-e38c-4dd9-8241-d174b7628910@e19f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Genomföra projekt\n- Agila projektmetoder i praktiken\n- Frågor gällande agila projektmetoder för CC\n- Administration & Överblick framåt\n- Genomföra projekt\n- Agila projektmetoder i praktiken\n- Frågor gällande agila projektmetoder för CC\n- Administration & Överblick framåt\n\nLärare: Johan Klasson\nDatum: March 25\, 2025\nTider: 09-16
+DTEND:20250325T150000Z
+DTSTART:20250325T080000Z
+SUMMARY:Lektion på plats
+UID:61d4356d-c8db-4d4e-93f9-b8962912bf6f@61d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Figma & Wireframes\n- Figma & Wireframes\n- Figma & Wireframes\n\nLärare: Jumi Strandberg\nDatum: March 17\, 2025\nTider: 13-16
+DTEND:20250317T150000Z
+DTSTART:20250317T120000Z
+SUMMARY:Lektion
+UID:3d1c4cc9-f730-4701-a621-b7001fb66364@3d1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Utgår\, skicka en mail till reidar.nilsen@qlok.se om något särskild som du behöver stöd med så kontaktar jag dig om ett privat stödmöte i Zoom.\nUtgår\, skicka en mail till reidar.nilsen@qlok.se om något särskild som du behöver stöd med så kontaktar jag dig om ett privat stödmöte i Zoom.\nUtgår\, skicka en mail till reidar.nilsen@qlok.se om något särskild som du behöver stöd med så kontaktar jag dig om ett privat stödmöte i Zoom.\n\nLärare: Reidar Nilsen\nDatum: October 18\, 2024\nTider: 13-15
+DTEND:20241018T130000Z
+DTSTART:20241018T110000Z
+SUMMARY:Stödtid
+UID:cf2de3b0-df47-4eca-8cce-f102ca71899d@cf2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:09-10 Johan - Information & Pulsmätning\n10-16 Aldor - Stödtid Backend\n09-10 Johan - Information & Pulsmätning\n10-16 Aldor - Stödtid Backend\n\nLärare: Johan Klasson\nDatum: March 4\, 2025\nTider: 09-16
+DTEND:20250304T150000Z
+DTSTART:20250304T080000Z
+SUMMARY:Lektion på plats
+UID:5aa9a3ec-e21c-42e7-88aa-5c75f44be8cd@5aa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lärare: Reidar Nilsen\nDatum: September 27\, 2024\nTider: 13-15
+DTEND:20240927T130000Z
+DTSTART:20240927T110000Z
+SUMMARY:Stödtid
+UID:c6a6be00-886e-4f13-aa46-2e3224f18538@c6a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: January 10\, 2025
+DTEND:20250110T090000Z
+DTSTART:20250110T080000Z
+SUMMARY:Stöd
+UID:fa536b43-c5d2-41e5-987a-5ee8aa7f8ebb@fa53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:-Introduktion till JavaScript\n   - ECMA-script \n   - Koppla JS till ett HTML dokument \n- Variabler \n- Primitiva- &referens datatyper \n- typeOf & kommentarer\n- Flödesschema & Nestling\n- Logiska Operatorer\n- Template literals & String interpolation\n-Introduktion till JavaScript\n   - ECMA-script \n   - Koppla JS till ett HTML dokument \n- Variabler \n- Primitiva- &referens datatyper \n- typeOf & kommentarer\n- Flödesschema & Nestling\n- Logiska Operatorer\n- Template literals & String interpolation\n-Introduktion till JavaScript\n   - ECMA-script \n   - Koppla JS till ett HTML dokument \n- Variabler \n- Primitiva- &referens datatyper \n- typeOf & kommentarer\n- Flödesschema & Nestling\n- Logiska Operatorer\n- Template literals & String interpolation\n\nLärare: Aldor Besher\nDatum: January 27\, 2025\nTider: 13-16
+DTEND:20250127T150000Z
+DTSTART:20250127T120000Z
+SUMMARY:Lektion
+UID:a27e9b43-9c7c-484b-b0d0-602672b3bb86@a27e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LEDIGT\nLEDIGT\n\nLärare: Databaser\nDatum: December 26\, 2024
+DTEND:20241226T090000Z
+DTSTART:20241226T080000Z
+SUMMARY:LEDIGT
+UID:5c9a670b-abcd-4ad1-be71-db4abf01b4c3@5c9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CV-portal\nCV-portal\nCV-portal\n\nLärare: Frontendutveckling & UX\nDatum: February 9\, 2025\nTider: 23:59
+DTEND:20250209T235900Z
+DTSTART:20250209T225900Z
+SUMMARY:DEADLINE
+UID:a5ae73d7-870b-4ba9-a6bf-8ea1f92c1ed4@a5ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n- Structs in c#\n- Snippets in visual studio\n- Attributes \n- Delegates\nAgenda\n- Structs in c#\n- Snippets in visual studio\n- Attributes \n- Delegates\nAgenda\n- Structs in c#\n- Snippets in visual studio\n- Attributes \n- Delegates\n\nLärare: Reidar Nilsen\nDatum: October 14\, 2024\nTider: 13:00-16:00
+DTEND:20241014T140000Z
+DTSTART:20241014T110000Z
+SUMMARY:Onlinelektion
+UID:5e6f2991-d234-4964-ae29-895aa3cf8577@5e6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:09-10 Johan\n10-16 Aldor\n09-10 Johan\n10-16 Aldor\n09-10 Johan\n10-16 Aldor\n\nLärare: Johan Klasson\nDatum: February 11\, 2025\nTider: 09-16
+DTEND:20250211T150000Z
+DTSTART:20250211T080000Z
+SUMMARY:Lektion på plats
+UID:23330c8a-b170-4758-9636-fc907d5a3505@2333.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lärare: Avancerad fullstackutveckling\nDatum: November 24\, 2025
+DTEND:20251124T090000Z
+DTSTART:20251124T080000Z
+SUMMARY:DEADLINE - Projectarbete
+UID:677d030e-61bf-42f4-aa80-12734d97048e@677d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:09.00-09.30: Information & Pulsmätning\n09.30-16.00: Projektmetodik och agila metoder:\n\n- Repetition\n- Genomgång: Uppgift 1 - Teamprojekt: CC\n- Introduktion: Uppgift 2 - Individuell reflektion\n- Komma igång\n- Projektplan och viktiga delar för agila projekt\n- Verktyg\, program\, mallar för Agila projektmetoder\n- Idéspåning (övningar & verktyg)\n09.00-09.30: Information & Pulsmätning\n09.30-16.00: Projektmetodik och agila metoder:\n\n- Repetition\n- Genomgång: Uppgift 1 - Teamprojekt: CC\n- Introduktion: Uppgift 2 - Individuell reflektion\n- Komma igång\n- Projektplan och viktiga delar för agila projekt\n- Verktyg\, program\, mallar för Agila projektmetoder\n- Idéspåning (övningar & verktyg)\n\nLärare: Johan Klasson\nDatum: March 20\, 2025\nTider: 09-16
+DTEND:20250320T150000Z
+DTSTART:20250320T080000Z
+SUMMARY:Lektion på plats
+UID:254e47c4-9114-4374-85a4-af5546578ea6@254e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Redovisningar av slutprojektet\n- Redovisningar av slutprojektet\n- Redovisningar av slutprojektet\n\nLärare: Reidar Nilsen\nDatum: November 13\, 2024\nTider: 9-12
+DTEND:20241113T110000Z
+DTSTART:20241113T080000Z
+SUMMARY:Stödtid
+UID:a9d67ae8-619f-4f9a-84a9-dae1caceb2b5@a9d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lab 7 – OOP Generic collections\nLab 7 – OOP Generic collections\nLab 7 – OOP Generic collections\n\nLärare: Reidar Nilsen\nDatum: November 10\, 2024\nTider: 23:59
+DTEND:20241110T235900Z
+DTSTART:20241110T225900Z
+SUMMARY:Deadline Lab7
+UID:651b9df9-635e-4a88-b2f4-61d33f6529a9@651b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n\nLärare: Aldor Besher\nDatum: October 27\, 2025\nTider: 09-12
+DTEND:20251027T110000Z
+DTSTART:20251027T080000Z
+SUMMARY:på distans
+UID:ec5c7f88-055e-406e-9308-ccf0c38228fd@ec5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Introduktion till JSON & Webb APIer\n- Fetch()\n- Introduktion till JSON & Webb APIer\n- Fetch()\n\nLärare: Aldor Besher\nDatum: February 3\, 2025\nTider: 13-16
+DTEND:20250203T150000Z
+DTSTART:20250203T120000Z
+SUMMARY:Lektion
+UID:70b2b024-976a-43a6-869d-290142b2cff3@70b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n- Stödtid med projekt\n\nLärare: Aldor Besher\nDatum: October 29\, 2025\nTider: 13-16
+DTEND:20251029T150000Z
+DTSTART:20251029T120000Z
+SUMMARY:på distans
+UID:5e33fd03-f7ef-4ba3-93bc-df9a4fc72c71@5e33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n- TBD\n\nLärare: Aldor Besher\nDatum: November 26\, 2025\nTider: 13-16
+DTEND:20251126T150000Z
+DTSTART:20251126T120000Z
+SUMMARY:på distans
+UID:0835339d-be70-4c84-9fc9-61a628a158a0@0835.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Information\n- Pulsmätning (fd Retro)\n- Gruppövning\n- Information\n- Pulsmätning (fd Retro)\n- Gruppövning\n- Information\n- Pulsmätning (fd Retro)\n- Gruppövning\n\nLärare: Johan Klasson\nDatum: January 28\, 2025\nTider: 09-16
+DTEND:20250128T150000Z
+DTSTART:20250128T080000Z
+SUMMARY:Lektion på plats
+UID:e5e03e79-40db-4e7c-ae97-23f64585ff81@e5e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Studiebesök hos ledningsgruppsföretaget Learnpoint\n- Studiebesök hos ledningsgruppsföretaget Learnpoint\n\nLärare: IT Tech & Operations\nDatum: September 3\, 2024\nTider: 9-10
+DTEND:20240903T080000Z
+DTSTART:20240903T070000Z
+SUMMARY:Studiebesök (Online)
+UID:58138a82-05f0-40d5-a361-728d8112d4df@5813.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n– Versionshantering och Git \n– Öva på Git och versionshantering\n– Repetition kring loopar\, villkorssatser och metoder.\nAgenda\n– Versionshantering och Git \n– Öva på Git och versionshantering\n– Repetition kring loopar\, villkorssatser och metoder.\nAgenda\n– Versionshantering och Git \n– Öva på Git och versionshantering\n– Repetition kring loopar\, villkorssatser och metoder.\n\nLärare: Reidar Nilsen\nDatum: September 18\, 2024\nTider: 9-12
+DTEND:20240918T100000Z
+DTSTART:20240918T070000Z
+SUMMARY:Onlinelektion
+UID:27e33687-acc3-4800-9bcc-b87eb28b7a33@27e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: May 20\, 2025\nTider: 09-12
+DTEND:20250520T100000Z
+DTSTART:20250520T070000Z
+SUMMARY:Stödtid
+UID:aad5fdff-efd8-4fce-b121-297b30613d49@aad5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Handledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\n\nLärare: Aldor Besher\nDatum: November 28\, 2025\nTider: 13-15
+DTEND:20251128T140000Z
+DTSTART:20251128T120000Z
+SUMMARY:Bokningsbar tid
+UID:b1a491a3-4ee6-4cbf-a41c-aa5bb92a963d@b1a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lektion på plats men Aldor deltar på distans!\n- Pulsmätning\n- Intro till kursen: Backendutveckling & API\n- Introduktion till API:er\n- Verktyg för API-testning\n- Olika API-arkitekturer (REST\, SOAP och GraphQL)\n- XML & JSON\n- Intro till ASP.NET Core -  Minimal API\nLektion på plats men Aldor deltar på distans!\n- Pulsmätning\n- Intro till kursen: Backendutveckling & API\n- Introduktion till API:er\n- Verktyg för API-testning\n- Olika API-arkitekturer (REST\, SOAP och GraphQL)\n- XML & JSON\n- Intro till ASP.NET Core -  Minimal API\n\nLärare: Aldor Besher\nDatum: February 18\, 2025\nTider: 09-16
+DTEND:20250218T150000Z
+DTSTART:20250218T080000Z
+SUMMARY:Lektion
+UID:cdf610b3-fadb-4f66-b787-d61d5a4b98bd@cdf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Start av individuella projektet\n- Stödtid\n- Start av individuella projektet\n- Stödtid\n- Start av individuella projektet\n- Stödtid\n\nLärare: Anas Alhussain\nDatum: December 16\, 2024\nTider: 09:00-16:00
+DTEND:20241216T150000Z
+DTSTART:20241216T080000Z
+SUMMARY:Lektion online
+UID:8c4f01c0-ad89-46dc-854a-9d4aad9169a4@8c4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: May 8\, 2025\nTider: 13-16
+DTEND:20250508T140000Z
+DTSTART:20250508T110000Z
+SUMMARY:Stödtid
+UID:0c8972c4-8471-4b06-8eb4-eae8745f486e@0c89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Responsiv Design\n- Media Queries för mobilanpassning\n- Relativa enheter\n- Responsiv Design\n- Media Queries för mobilanpassning\n- Relativa enheter\n- Responsiv Design\n- Media Queries för mobilanpassning\n- Relativa enheter\n\nLärare: Aldor Besher\nDatum: January 9\, 2025\nTider: 13-16
+DTEND:20250109T150000Z
+DTSTART:20250109T120000Z
+SUMMARY:Lektion
+UID:ba819b11-c280-4816-8ad1-dee5af9955f7@ba81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Handledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\n\nLärare: Aldor Besher\nDatum: September 26\, 2025\nTider: 13-15
+DTEND:20250926T130000Z
+DTSTART:20250926T110000Z
+SUMMARY:Bokningsbar tid
+UID:e9d10e08-ce97-49b6-bbe1-556f500cb324@e9d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n- Stödtid projekt och tidigare labbar\nAgenda\n- Stödtid projekt och tidigare labbar\nAgenda\n- Stödtid projekt och tidigare labbar\n\nLärare: Reidar Nilsen\nDatum: October 31\, 2024\nTider: 13:00-16:00
+DTEND:20241031T150000Z
+DTSTART:20241031T120000Z
+SUMMARY:Stödtid
+UID:87e98c6a-96e5-4151-ba7e-64a761f83096@87e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Implementera API-nycklar\n- Övning\n- Implementera API-nycklar\n- Övning\n- Implementera API-nycklar\n- Övning\n\nLärare: Aldor Besher\nDatum: March 3\, 2025\nTider: 13-16
+DTEND:20250303T150000Z
+DTSTART:20250303T120000Z
+SUMMARY:Lektion
+UID:501416b3-0c9e-4f92-8ea1-04c9569b560f@5014.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: April 17\, 2025\nTider: 13-16
+DTEND:20250417T140000Z
+DTSTART:20250417T110000Z
+SUMMARY:Stödtid
+UID:bb9f7d37-ea1d-447d-aa22-6ed19c31f6d0@bb9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n- Introduktion och grunderna i AI \n- Copilot & ChatGPT\nAgenda\n- Introduktion och grunderna i AI \n- Copilot & ChatGPT\nAgenda\n- Introduktion och grunderna i AI \n- Copilot & ChatGPT\n\nLärare: Reidar Nilsen\nDatum: October 21\, 2024\nTider: 13:00-16:00
+DTEND:20241021T140000Z
+DTSTART:20241021T110000Z
+SUMMARY:Onlinelektion
+UID:e5640ec3-ae1c-4894-a508-5e362eaebbfa@e564.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Avancerad Joins\n- Mer övning i SQL\n- ER Modellering\n- Avancerad Joins\n- Mer övning i SQL\n- ER Modellering\n- Avancerad Joins\n- Mer övning i SQL\n- ER Modellering\n\nLärare: Reidar Nilsen\nDatum: November 25\, 2024\nTider: 13:00
+DTEND:20241125T130000Z
+DTSTART:20241125T120000Z
+SUMMARY:Online lektion
+UID:ea368a87-bf63-4269-8dd0-16b8bac2a30e@ea36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Mer om mjukvarutestning\n- Enhetstester med CI/CD\n- Mer om mjukvarutestning\n- Enhetstester med CI/CD\n\nLärare: Aldor Besher\nDatum: September 17\, 2025\nTider: 13-16
+DTEND:20250917T140000Z
+DTSTART:20250917T110000Z
+SUMMARY:Lektion på distans
+UID:ee427768-d3c4-4cd8-b2ca-bf1862e52133@ee42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Studiebesök hos ledningsgruppsföretaget OnSpotStory\n- Studiebesök hos ledningsgruppsföretaget OnSpotStory\n\nLärare: IT Tech & Operations\nDatum: September 3\, 2024\nTider: 11-12
+DTEND:20240903T100000Z
+DTSTART:20240903T090000Z
+SUMMARY:Studiebesök (Online)
+UID:a05c9946-1df0-4b83-8963-b6af93c7b5f6@a05c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n- Start av slutprojektet\n- Repetition\nAgenda\n- Start av slutprojektet\n- Repetition\n\nLärare: Reidar Nilsen\nDatum: October 28\, 2024\nTider: 13:00-16:00
+DTEND:20241028T150000Z
+DTSTART:20241028T120000Z
+SUMMARY:Onlinelektion
+UID:651e80e5-56c3-4085-86ea-30790a0015a4@651e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Identity i ASP.NET core\n- Identity i ASP.NET core\n- Identity i ASP.NET core\n\nLärare: Aldor Besher\nDatum: September 10\, 2025\nTider: 13-16
+DTEND:20250910T140000Z
+DTSTART:20250910T110000Z
+SUMMARY:Lektion på distans
+UID:8bdd10d3-5d4c-46db-bd27-78ce44734f80@8bdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Labb 1 – Skapa din första databas\nLabb 1 – Skapa din första databas\nLabb 1 – Skapa din första databas\nLabb 1 – Skapa din första databas\n\nLärare: Reidar Nilsen\nDatum: December 1\, 2024\nTider: 23:59
+DTEND:20241201T235900Z
+DTSTART:20241201T225900Z
+SUMMARY:Deadline
+UID:f1660a63-2208-4faf-a540-ece97ed6c801@f166.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: January 13\, 2025
+DTEND:20250113T090000Z
+DTSTART:20250113T080000Z
+SUMMARY:Lektion
+UID:8c1ebfa4-18e4-4a82-bc4b-db212123076a@8c1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Information\n- Pulsmätning (fd Retro)\n- Gruppövning\n- Databas-lektion/recap med Aldor - kl 13-16\n- Information\n- Pulsmätning (fd Retro)\n- Gruppövning\n- Databas-lektion/recap med Aldor - kl 13-16\n- Information\n- Pulsmätning (fd Retro)\n- Gruppövning\n- Databas-lektion/recap med Aldor - kl 13-16\n\nLärare: Johan Klasson\nDatum: January 21\, 2025\nTider: 09-16
+DTEND:20250121T150000Z
+DTSTART:20250121T080000Z
+SUMMARY:Lektion på plats
+UID:4393c3ae-c476-46e1-9725-91e1e9c5d956@4393.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TEMA: Frontend med React\n- React med Vite\n- Koppla frontend med backend i react\n   - CORS\n   - Axios\nTEMA: Frontend med React\n- React med Vite\n- Koppla frontend med backend i react\n   - CORS\n   - Axios\nTEMA: Frontend med React\n- React med Vite\n- Koppla frontend med backend i react\n   - CORS\n   - Axios\n\nLärare: Aldor Besher\nDatum: September 1\, 2025\nTider: 09-12
+DTEND:20250901T100000Z
+DTSTART:20250901T070000Z
+SUMMARY:Lektion på distans
+UID:31f498bf-3e1e-4588-abc3-910f5547644a@31f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: January 24\, 2025
+DTEND:20250124T090000Z
+DTSTART:20250124T080000Z
+SUMMARY:Stöd
+UID:a86dd916-bad4-4aba-8dd1-3513c6446c9c@a86d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n- Retro\n– Workshop\nAgenda\n- Retro\n– Workshop\nAgenda\n- Retro\n– Workshop\n\nLärare: Tobias Landén\nDatum: October 8\, 2024\nTider: 9-16
+DTEND:20241008T140000Z
+DTSTART:20241008T070000Z
+SUMMARY:Lektion på plats
+UID:332a23f2-80eb-4b57-9d37-dfa31d114d0d@332a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Entity Framework med ASP.NET Core\n- Code-first databas\n   - Attribut och datavalidering\n- LINQ\n- ER-modellering\n- Entity Framework med ASP.NET Core\n- Code-first databas\n   - Attribut och datavalidering\n- LINQ\n- ER-modellering\n- Entity Framework med ASP.NET Core\n- Code-first databas\n   - Attribut och datavalidering\n- LINQ\n- ER-modellering\n\nLärare: Aldor Besher\nDatum: February 19\, 2025\nTider: 09-12
+DTEND:20250219T110000Z
+DTSTART:20250219T080000Z
+SUMMARY:Lektion
+UID:64c798dc-8e08-4c82-bd14-2a3e3a8a81be@64c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid (Individuell)\nBokningsbar tid (Individuell)\n\nLärare: Aldor Besher\nDatum: May 9\, 2025\nTider: 13-15
+DTEND:20250509T130000Z
+DTSTART:20250509T110000Z
+SUMMARY:Stödtid
+UID:121cf0a2-12ba-4b90-9bb7-96bdf6762d7c@121c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Deadline för \nK1U1– Individuell skriftlig inlämning\nDeadline för \nK1U1– Individuell skriftlig inlämning\nDeadline för \nK1U1– Individuell skriftlig inlämning\n\nLärare: IT Tech & Operations\nDatum: September 15\, 2024\nTider: 23.59
+DTEND:20240915T225900Z
+DTSTART:20240915T215900Z
+SUMMARY:DEADLINE
+UID:18873207-ff36-4a00-b956-d92f12a3c206@1887.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid (Individuell)\nBokningsbar tid (Individuell)\n\nLärare: Aldor Besher\nDatum: May 23\, 2025\nTider: 13-15
+DTEND:20250523T130000Z
+DTSTART:20250523T110000Z
+SUMMARY:Stödtid
+UID:5281dbbd-214d-4b15-8245-70d736eaf9d8@5281.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:– Problem & Hypoteser\n– Problem & Hypoteser\n– Problem & Hypoteser\n\nLärare: Jumi Strandberg\nDatum: March 13\, 2025\nTider: 13-16
+DTEND:20250313T150000Z
+DTSTART:20250313T120000Z
+SUMMARY:Lektion
+UID:995a8f18-cc12-49c1-890c-9788bed25b61@995a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: March 27\, 2025\nTider: 13-16
+DTEND:20250327T150000Z
+DTSTART:20250327T120000Z
+SUMMARY:Stödtid
+UID:d3ef2de2-f081-4d2c-8c25-55e45351eb83@d3ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid (Individuell)\nBokningsbar tid (Individuell)\nBokningsbar tid (Individuell)\n\nLärare: Aldor Besher\nDatum: May 30\, 2025\nTider: 13-15
+DTEND:20250530T130000Z
+DTSTART:20250530T110000Z
+SUMMARY:Stödtid
+UID:8bca0fc7-1c1f-4018-a101-cbe7494bff46@8bca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Fortsättning från igår\n- Övning\n- Fortsättning från igår\n- Övning\n- Fortsättning från igår\n- Övning\n\nLärare: Aldor Besher\nDatum: February 20\, 2025\nTider: 13-16
+DTEND:20250220T150000Z
+DTSTART:20250220T120000Z
+SUMMARY:Lektion
+UID:1bb153b2-9b92-4ce2-a5d8-237fde598a86@1bb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbara tider\nBokningsbara tider\n\nLärare: Reidar Nilsen\nDatum: December 30\, 2024\nTider: 13:00-16.00
+DTEND:20241230T150000Z
+DTSTART:20241230T120000Z
+SUMMARY:Stöd
+UID:cb34da0b-324f-46da-80c8-fe7dc952e916@cb34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid\n- Stödtid\n\nLärare: Aldor Besher\nDatum: March 21\, 2025\nTider: 13-15
+DTEND:20250321T140000Z
+DTSTART:20250321T120000Z
+SUMMARY:Stöd
+UID:45b58da1-e5b0-4aef-9b20-5f5adf4e74bc@45b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Oauth 2.0 (SSO)\n- Mejl-tjänst i Azure\n- Oauth 2.0 (SSO)\n- Mejl-tjänst i Azure\n- Oauth 2.0 (SSO)\n- Mejl-tjänst i Azure\n\nLärare: Aldor Besher\nDatum: September 11\, 2025\nTider: 13-16
+DTEND:20250911T140000Z
+DTSTART:20250911T110000Z
+SUMMARY:Lektion på distans
+UID:1e5c3ed2-6430-48f7-b1f8-8b809daf730d@1e5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Implementera spårningskoder och händelsespårning.\n- Utvärdera & Optimera Prestanda på en webbplats\n- Implementera spårningskoder och händelsespårning.\n- Utvärdera & Optimera Prestanda på en webbplats\n\nLärare: Aldor Besher\nDatum: October 13\, 2025\nTider: 09-12
+DTEND:20251013T100000Z
+DTSTART:20251013T070000Z
+SUMMARY:Lektion på distans
+UID:1ac0c052-c553-4619-b8dd-790554138946@1ac0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Handledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\nHandledningstid (bokningsbar)\n\nLärare: Aldor Besher\nDatum: October 24\, 2025\nTider: 13-15
+DTEND:20251024T130000Z
+DTSTART:20251024T110000Z
+SUMMARY:Bokningsbar tid
+UID:29c0190a-5109-442b-bb99-e9b11eed458b@29c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Grupp 4\, 5 och 6 Studiebesök hos ledningsgruppsföretaget 3D Interactive\n- Grupp 4\, 5 och 6 Studiebesök hos ledningsgruppsföretaget 3D Interactive\n\nLärare: IT Tech & Operations\nDatum: September 5\, 2024\nTider: 10-11
+DTEND:20240905T090000Z
+DTSTART:20240905T080000Z
+SUMMARY:Studiebesök (På plats)
+UID:05b93928-5709-484e-b6ba-999f41d83d26@05b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lärare: Avancerad fullstackutveckling\nDatum: November 28\, 2025
+DTEND:20251128T090000Z
+DTSTART:20251128T080000Z
+SUMMARY:DEADLINE - Teorihandbok
+UID:cb699990-8514-4216-8897-7e17995df925@cb69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Handledningstid (bokningsbar)\nHandledningstid (bokningsbar)\n\nLärare: Aldor Besher\nDatum: September 19\, 2025\nTider: 13-15
+DTEND:20250919T130000Z
+DTSTART:20250919T110000Z
+SUMMARY:Bokningsbar tid
+UID:77536d9e-de3b-401b-97ae-18e12eb3515b@7753.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Datum: September 14\, 2024
+DTEND:20240914T080000Z
+DTSTART:20240914T070000Z
+SUMMARY:Händelse 2024-09-14
+UID:9b3c4be4-79a9-48cd-b7ea-43093b238d13@9b3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n- Stödtid projekt\nAgenda\n- Stödtid projekt\nAgenda\n- Stödtid projekt\n\nLärare: Reidar Nilsen\nDatum: November 4\, 2024\nTider: 13-16
+DTEND:20241104T150000Z
+DTSTART:20241104T120000Z
+SUMMARY:Onlinelektion
+UID:00d1f9bc-7069-408e-bc2f-36c5479c15ca@00d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\nGetter\, Setter…\n– Övningar kring objektorientering\nAgenda\nGetter\, Setter…\n– Övningar kring objektorientering\nAgenda\nGetter\, Setter…\n– Övningar kring objektorientering\n\nLärare: Reidar Nilsen\nDatum: September 26\, 2024\nTider: 13-16
+DTEND:20240926T140000Z
+DTSTART:20240926T110000Z
+SUMMARY:Onlinelektion
+UID:aafc26f0-3973-4e60-9322-7cdc0eca34d0@aafc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: May 28\, 2025\nTider: 09-12
+DTEND:20250528T100000Z
+DTSTART:20250528T070000Z
+SUMMARY:Stödtid
+UID:ce0a6d61-731a-4212-aea3-6367323ba2e1@ce0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Repetition\n  - Relativa enheter\n- Semantisk html\n- Typsnitt\, bilder & färger\n- Genomgång av Dev-tools i webbläsaren\n- Repetition\n  - Relativa enheter\n- Semantisk html\n- Typsnitt\, bilder & färger\n- Genomgång av Dev-tools i webbläsaren\n- Repetition\n  - Relativa enheter\n- Semantisk html\n- Typsnitt\, bilder & färger\n- Genomgång av Dev-tools i webbläsaren\n\nLärare: Aldor Besher\nDatum: January 13\, 2025\nTider: 13-16
+DTEND:20250113T150000Z
+DTSTART:20250113T120000Z
+SUMMARY:Lektion
+UID:77520696-1e7c-4379-81ff-75a439ac56c1@7752.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbara tider\nBokningsbara tider\n\nLärare: Reidar Nilsen\nDatum: January 31\, 2025\nTider: 13-15
+DTEND:20250131T140000Z
+DTSTART:20250131T120000Z
+SUMMARY:Stöd
+UID:bdeb1c67-18c4-4418-8e49-f52ad0667a0e@bdeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:– Figma Mockups\n– Figma Mockups\n– Figma Mockups\n\nLärare: Jumi Strandberg\nDatum: March 18\, 2025\nTider: 13-16
+DTEND:20250318T150000Z
+DTSTART:20250318T120000Z
+SUMMARY:Lektion
+UID:3cd4ea85-41a7-4998-9a31-747822565717@3cd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Agenda\n– Vad är C# och .NET.\n– IDE vs. kodeditor\n– Att installera Visual Studio och projektinnehållet\n– Skapa ett projekt och experimentera i Visual Studio\nAgenda\n– Vad är C# och .NET.\n– IDE vs. kodeditor\n– Att installera Visual Studio och projektinnehållet\n– Skapa ett projekt och experimentera i Visual Studio\n\nLärare: Reidar Nilsen\nDatum: September 6\, 2024\nTider: 9-12
+DTEND:20240906T100000Z
+DTSTART:20240906T070000Z
+SUMMARY:Lektion online
+UID:66f32f28-aeff-468c-a00d-8d9727a1d94b@66f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:- Stödtid med projekt\n- Stödtid med projekt\n\nLärare: Aldor Besher\nDatum: October 15\, 2025\nTider: 13-16
+DTEND:20251015T140000Z
+DTSTART:20251015T110000Z
+SUMMARY:på distans
+UID:f3555181-6bf5-47e6-8898-458d5d595eca@f355.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lärare: Reidar Nilsen\nDatum: October 4\, 2024\nTider: 13-15
+DTEND:20241004T130000Z
+DTSTART:20241004T110000Z
+SUMMARY:Stödtid
+UID:b37192a4-6695-48a9-bd27-e0577d77dc49@b371.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bokningsbar tid\nBokningsbar tid\n\nLärare: Aldor Besher\nDatum: April 16\, 2025\nTider: 09-12
+DTEND:20250416T100000Z
+DTSTART:20250416T070000Z
+SUMMARY:Stödtid
+UID:44ef0c14-bba6-41a9-94ed-e3dbf4820dbc@44ef.org
+END:VEVENT
+END:VCALENDAR
