@@ -1,7 +1,12 @@
 name: Update ICS daily
 on:
   schedule:
+    # Körs 00:00, 10:00 och 14:00 UTC
+    # 01:00, 11:00, 15:00 svensk tid vinter
+    # 02:00, 12:00, 16:00 svensk tid sommar
     - cron: "0 0 * * *"
+    - cron: "0 10 * * *"
+    - cron: "0 14 * * *"
   workflow_dispatch:
 
 jobs:
